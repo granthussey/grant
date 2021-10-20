@@ -1,0 +1,1410 @@
+LINE NUMBER 0
+['Firmicutes Christensenellaceae Catabacter'
+ 'Firmicutes Christensenellaceae Christensenella'
+ 'Firmicutes Christensenellaceae Christensenellaceae R-7 group'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 1'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 12'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 13'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 15'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 16'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 18'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 2'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 3'
+ 'Firmicutes Clostridiaceae 1 Clostridium sensu stricto 6'
+ 'Firmicutes Clostridiaceae 1 Sarcina'
+ 'Firmicutes Clostridiales vadinBB60 group Genus gut metagenome'
+ 'Firmicutes Clostridiales vadinBB60 group metagenome'
+ 'Firmicutes Defluviitaleaceae Defluviitaleaceae UCG-011'
+ 'Firmicutes Eubacteriaceae Anaerofustis'
+ 'Firmicutes Eubacteriaceae Eubacterium'
+ 'Firmicutes Eubacteriaceae Garciella'
+ 'Firmicutes Eubacteriaceae Pseudoramibacter'
+ 'Firmicutes Family XI Anaerococcus'
+ 'Firmicutes Family XI Anaerosalibacter' 'Firmicutes Family XI Ezakiella'
+ 'Firmicutes Family XI Finegoldia' 'Firmicutes Family XI Gallicola'
+ 'Firmicutes Family XI Helcococcus' 'Firmicutes Family XI Murdochiella'
+ 'Firmicutes Family XI Parvimonas' 'Firmicutes Family XI Peptoniphilus'
+ 'Firmicutes Family XI Sedimentibacter' 'Firmicutes Family XI Tissierella'
+ 'Firmicutes Family XI Tissierella sp. AIP 285.00'
+ 'Firmicutes Family XI W5053'
+ 'Firmicutes Family XIII Family XIII AD3011 group'
+ 'Firmicutes Family XIII Family XIII UCG-001'
+ 'Firmicutes Family XIII Mogibacterium' 'Firmicutes Family XIII S5-A14a'
+ 'Firmicutes Family XIII [Eubacterium] brachy group'
+ 'Firmicutes Family XIII [Eubacterium] nodatum group'
+ 'Firmicutes Family XIII [Eubacterium] saphenum group'
+ 'Firmicutes Lachnospiraceae A2' 'Firmicutes Lachnospiraceae ASF356'
+ 'Firmicutes Lachnospiraceae Acetitomaculum'
+ 'Firmicutes Lachnospiraceae Agathobacter'
+ 'Firmicutes Lachnospiraceae Anaerocolumna'
+ 'Firmicutes Lachnospiraceae Anaerosporobacter'
+ 'Firmicutes Lachnospiraceae Anaerostipes'
+ 'Firmicutes Lachnospiraceae Blautia'
+ 'Firmicutes Lachnospiraceae Butyrivibrio'
+ 'Firmicutes Lachnospiraceae CAG-56' 'Firmicutes Lachnospiraceae CHKCI001'
+ 'Firmicutes Lachnospiraceae Cellulosilyticum'
+ 'Firmicutes Lachnospiraceae Coprococcus 1'
+ 'Firmicutes Lachnospiraceae Coprococcus 2'
+ 'Firmicutes Lachnospiraceae Coprococcus 3'
+ 'Firmicutes Lachnospiraceae Cuneatibacter'
+ 'Firmicutes Lachnospiraceae Dorea'
+ 'Firmicutes Lachnospiraceae Eisenbergiella'
+ 'Firmicutes Lachnospiraceae Epulopiscium'
+ 'Firmicutes Lachnospiraceae Fusicatenibacter'
+ 'Firmicutes Lachnospiraceae GCA-900066575'
+ 'Firmicutes Lachnospiraceae GCA-900066755'
+ 'Firmicutes Lachnospiraceae Herbinix'
+ 'Firmicutes Lachnospiraceae Howardella'
+ 'Firmicutes Lachnospiraceae Hungatella'
+ 'Firmicutes Lachnospiraceae Incertae Sedis'
+ 'Firmicutes Lachnospiraceae Johnsonella'
+ 'Firmicutes Lachnospiraceae Lachnoanaerobaculum'
+ 'Firmicutes Lachnospiraceae Lachnoclostridium'
+ 'Firmicutes Lachnospiraceae Lachnoclostridium 10'
+ 'Firmicutes Lachnospiraceae Lachnoclostridium 5'
+ 'Firmicutes Lachnospiraceae Lachnospira'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae FCS020 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae FE2018 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae NC2004 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae ND3007 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae NK3A20 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae NK4A136 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae NK4B4 group'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-001'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-002'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-003'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-004'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-006'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-007'
+ 'Firmicutes Lachnospiraceae Lachnospiraceae UCG-008'
+ 'Firmicutes Lachnospiraceae Lactonifactor'
+ 'Firmicutes Lachnospiraceae Marvinbryantia'
+ 'Firmicutes Lachnospiraceae Moryella'
+ 'Firmicutes Lachnospiraceae Murimonas'
+ 'Firmicutes Lachnospiraceae Oribacterium'
+ 'Firmicutes Lachnospiraceae Robinsoniella'
+ 'Firmicutes Lachnospiraceae Roseburia'
+ 'Firmicutes Lachnospiraceae Sellimonas'
+ 'Firmicutes Lachnospiraceae Shuttleworthia'
+ 'Firmicutes Lachnospiraceae Stomatobaculum'
+ 'Firmicutes Lachnospiraceae Tyzzerella'
+ 'Firmicutes Lachnospiraceae Tyzzerella 3'
+ 'Firmicutes Lachnospiraceae Tyzzerella 4'
+ 'Firmicutes Lachnospiraceae UC5-1-2E3'
+ 'Firmicutes Lachnospiraceae [Acetivibrio] ethanolgignens group'
+ 'Firmicutes Lachnospiraceae [Bacteroides] pectinophilus group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] eligens group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] fissicatena group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] hallii group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] oxidoreducens group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] ruminantium group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] ventriosum group'
+ 'Firmicutes Lachnospiraceae [Eubacterium] xylanophilum group'
+ 'Firmicutes Lachnospiraceae [Ruminococcus] gauvreauii group'
+ 'Firmicutes Lachnospiraceae [Ruminococcus] gnavus group'
+ 'Firmicutes Lachnospiraceae [Ruminococcus] torques group'
+ 'Firmicutes Peptococcaceae Peptococcus'
+ 'Firmicutes Peptostreptococcaceae Clostridioides'
+ 'Firmicutes Peptostreptococcaceae Filifactor'
+ 'Firmicutes Peptostreptococcaceae Intestinibacter'
+ 'Firmicutes Peptostreptococcaceae Paeniclostridium'
+ 'Firmicutes Peptostreptococcaceae Paraclostridium'
+ 'Firmicutes Peptostreptococcaceae Peptoclostridium'
+ 'Firmicutes Peptostreptococcaceae Peptostreptococcus'
+ 'Firmicutes Peptostreptococcaceae Romboutsia'
+ 'Firmicutes Peptostreptococcaceae Terrisporobacter'
+ 'Firmicutes Ruminococcaceae Acetanaerobacterium'
+ 'Firmicutes Ruminococcaceae Anaerofilum'
+ 'Firmicutes Ruminococcaceae Anaerotruncus'
+ 'Firmicutes Ruminococcaceae Angelakisella'
+ 'Firmicutes Ruminococcaceae Butyricicoccus'
+ 'Firmicutes Ruminococcaceae CAG-352'
+ 'Firmicutes Ruminococcaceae Candidatus Soleaferrea'
+ 'Firmicutes Ruminococcaceae Caproiciproducens'
+ 'Firmicutes Ruminococcaceae Clostridium sp. strain Z6'
+ 'Firmicutes Ruminococcaceae DTU089'
+ 'Firmicutes Ruminococcaceae Faecalibacterium'
+ 'Firmicutes Ruminococcaceae Fastidiosipila'
+ 'Firmicutes Ruminococcaceae Flavonifractor'
+ 'Firmicutes Ruminococcaceae Fournierella'
+ 'Firmicutes Ruminococcaceae GCA-900066225'
+ 'Firmicutes Ruminococcaceae Harryflintia'
+ 'Firmicutes Ruminococcaceae Hydrogenoanaerobacterium'
+ 'Firmicutes Ruminococcaceae Intestinimonas'
+ 'Firmicutes Ruminococcaceae Negativibacillus'
+ 'Firmicutes Ruminococcaceae Oscillibacter'
+ 'Firmicutes Ruminococcaceae Oscillospira'
+ 'Firmicutes Ruminococcaceae Papillibacter'
+ 'Firmicutes Ruminococcaceae Phocea'
+ 'Firmicutes Ruminococcaceae Pygmaiobacter'
+ 'Firmicutes Ruminococcaceae Ruminiclostridium'
+ 'Firmicutes Ruminococcaceae Ruminiclostridium 1'
+ 'Firmicutes Ruminococcaceae Ruminiclostridium 5'
+ 'Firmicutes Ruminococcaceae Ruminiclostridium 6'
+ 'Firmicutes Ruminococcaceae Ruminiclostridium 9'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae NK4A214 group'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-002'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-003'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-004'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-005'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-008'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-009'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-010'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-011'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-013'
+ 'Firmicutes Ruminococcaceae Ruminococcaceae UCG-014'
+ 'Firmicutes Ruminococcaceae Ruminococcus 1'
+ 'Firmicutes Ruminococcaceae Ruminococcus 2'
+ 'Firmicutes Ruminococcaceae Subdoligranulum'
+ 'Firmicutes Ruminococcaceae UBA1819'
+ 'Firmicutes Ruminococcaceae [Eubacterium] coprostanoligenes group']
+================================================================================
+
+
+LINE NUMBER 1
+['Firmicutes Aerococcaceae Abiotrophia'
+ 'Firmicutes Aerococcaceae Aerococcus'
+ 'Firmicutes Alicyclobacillaceae Alicyclobacillus'
+ 'Firmicutes Bacillaceae Anoxybacillus' 'Firmicutes Bacillaceae Bacillus'
+ 'Firmicutes Bacillaceae Geobacillus'
+ 'Firmicutes Bacillaceae Virgibacillus'
+ 'Firmicutes Carnobacteriaceae Carnobacterium'
+ 'Firmicutes Carnobacteriaceae Dolosigranulum'
+ 'Firmicutes Carnobacteriaceae Granulicatella'
+ 'Firmicutes Family XI Gemella'
+ 'Firmicutes Lactobacillaceae Lactobacillus'
+ 'Firmicutes Lactobacillaceae Pediococcus'
+ 'Firmicutes Leuconostocaceae Fructobacillus'
+ 'Firmicutes Leuconostocaceae Leuconostoc'
+ 'Firmicutes Leuconostocaceae Weissella'
+ 'Firmicutes Paenibacillaceae Paenibacillus'
+ 'Firmicutes Planococcaceae Lysinibacillus'
+ 'Firmicutes Staphylococcaceae Macrococcus'
+ 'Firmicutes Streptococcaceae Anthococcus'
+ 'Firmicutes Streptococcaceae Lactococcus']
+================================================================================
+
+
+LINE NUMBER 2
+['Firmicutes Aerococcaceae Abiotrophia']
+================================================================================
+
+
+LINE NUMBER 3
+['Proteobacteria Burkholderiaceae Achromobacter']
+================================================================================
+
+
+LINE NUMBER 4
+['Acidobacteria Blastocatellaceae Blastocatella'
+ 'Acidobacteria Solibacteraceae (Subgroup 3) Bryobacter'
+ 'Actinobacteria Actinomycetaceae Actinobaculum'
+ 'Actinobacteria Actinomycetaceae Actinomyces'
+ 'Actinobacteria Actinomycetaceae Actinotignum'
+ 'Actinobacteria Actinomycetaceae Arcanobacterium'
+ 'Actinobacteria Actinomycetaceae F0332'
+ 'Actinobacteria Actinomycetaceae Mobiluncus'
+ 'Actinobacteria Actinomycetaceae Trueperella'
+ 'Actinobacteria Actinomycetaceae Varibaculum'
+ 'Actinobacteria Atopobiaceae Atopobium'
+ 'Actinobacteria Atopobiaceae Coriobacteriaceae UCG-002'
+ 'Actinobacteria Atopobiaceae Libanicoccus'
+ 'Actinobacteria Atopobiaceae Olsenella'
+ 'Actinobacteria Bifidobacteriaceae Aeriscardovia'
+ 'Actinobacteria Bifidobacteriaceae Alloscardovia'
+ 'Actinobacteria Bifidobacteriaceae Bifidobacterium'
+ 'Actinobacteria Bifidobacteriaceae Gardnerella'
+ 'Actinobacteria Bifidobacteriaceae Parascardovia'
+ 'Actinobacteria Bifidobacteriaceae Scardovia'
+ 'Actinobacteria Brevibacteriaceae Brevibacterium'
+ 'Actinobacteria Coriobacteriaceae Collinsella'
+ 'Actinobacteria Coriobacteriaceae Enorma'
+ 'Actinobacteria Coriobacteriales Incertae Sedis Raoultibacter'
+ 'Actinobacteria Corynebacteriaceae Corynebacterium'
+ 'Actinobacteria Corynebacteriaceae Corynebacterium 1'
+ 'Actinobacteria Corynebacteriaceae Lawsonella'
+ 'Actinobacteria Dermabacteraceae Dermabacter'
+ 'Actinobacteria Eggerthellaceae Adlercreutzia'
+ 'Actinobacteria Eggerthellaceae CHKCI002'
+ 'Actinobacteria Eggerthellaceae Cryptobacterium'
+ 'Actinobacteria Eggerthellaceae DNF00809'
+ 'Actinobacteria Eggerthellaceae Eggerthella'
+ 'Actinobacteria Eggerthellaceae Enterorhabdus'
+ 'Actinobacteria Eggerthellaceae Gordonibacter'
+ 'Actinobacteria Eggerthellaceae Paraeggerthella'
+ 'Actinobacteria Eggerthellaceae Parvibacter'
+ 'Actinobacteria Eggerthellaceae Senegalimassilia'
+ 'Actinobacteria Eggerthellaceae Slackia'
+ 'Actinobacteria Geodermatophilaceae Blastococcus'
+ 'Actinobacteria Geodermatophilaceae Modestobacter'
+ 'Actinobacteria Microbacteriaceae Cryobacterium'
+ 'Actinobacteria Microbacteriaceae Curtobacterium'
+ 'Actinobacteria Microbacteriaceae Leucobacter'
+ 'Actinobacteria Microbacteriaceae Microbacterium'
+ 'Actinobacteria Microbacteriaceae Mycetocola'
+ 'Actinobacteria Microbacteriaceae Plantibacter'
+ 'Actinobacteria Microbacteriaceae Pseudoclavibacter'
+ 'Actinobacteria Micrococcaceae Kocuria'
+ 'Actinobacteria Micrococcaceae Micrococcus'
+ 'Actinobacteria Micrococcaceae Rothia'
+ 'Actinobacteria Mycobacteriaceae Mycobacterium'
+ 'Actinobacteria Nocardiaceae Gordonia'
+ 'Actinobacteria Nocardiaceae Rhodococcus'
+ 'Actinobacteria Nocardioidaceae Aeromicrobium'
+ 'Actinobacteria Nocardioidaceae Nocardioides'
+ 'Actinobacteria Propionibacteriaceae Acidipropionibacterium'
+ 'Actinobacteria Propionibacteriaceae Cutibacterium'
+ 'Actinobacteria Propionibacteriaceae Friedmanniella'
+ 'Actinobacteria Propionibacteriaceae Propionibacterium'
+ 'Actinobacteria Propionibacteriaceae Pseudopropionibacterium'
+ 'Actinobacteria Sanguibacteraceae Sanguibacter'
+ 'Chlamydiae Parachlamydiaceae Candidatus Protochlamydia'
+ 'Chlamydiae Parachlamydiaceae Neochlamydia'
+ 'Chloroflexi Anaerolineaceae Flexilinea'
+ 'Deferribacteres Deferribacteraceae Mucispirillum'
+ 'Deinococcus-Thermus Deinococcaceae Deinococcus'
+ 'Deinococcus-Thermus Thermaceae Thermus'
+ 'Deinococcus-Thermus Trueperaceae Truepera'
+ 'Dependentiae Babeliaceae Candidatus Babela'
+ 'Epsilonbacteraeota Campylobacteraceae Campylobacter'
+ 'Epsilonbacteraeota Helicobacteraceae Helicobacter'
+ 'Firmicutes Acidaminococcaceae Acidaminococcus'
+ 'Firmicutes Acidaminococcaceae Phascolarctobacterium'
+ 'Firmicutes Acidaminococcaceae Succiniclasticum'
+ 'Firmicutes Veillonellaceae Allisonella'
+ 'Firmicutes Veillonellaceae Anaeroglobus'
+ 'Firmicutes Veillonellaceae Anaerovibrio'
+ 'Firmicutes Veillonellaceae Dialister'
+ 'Firmicutes Veillonellaceae Megamonas'
+ 'Firmicutes Veillonellaceae Megasphaera'
+ 'Firmicutes Veillonellaceae Mitsuokella'
+ 'Firmicutes Veillonellaceae Negativicoccus'
+ 'Firmicutes Veillonellaceae Selenomonas'
+ 'Firmicutes Veillonellaceae Selenomonas 3'
+ 'Firmicutes Veillonellaceae Selenomonas 4'
+ 'Firmicutes Veillonellaceae Veillonella'
+ 'Fusobacteria Fusobacteriaceae Fusobacterium'
+ 'Fusobacteria Leptotrichiaceae Leptotrichia'
+ 'Fusobacteria Leptotrichiaceae Sneathia'
+ 'Fusobacteria Leptotrichiaceae Streptobacillus'
+ 'Lentisphaerae Oligosphaeraceae Z20'
+ 'Lentisphaerae Victivallaceae Victivallis'
+ 'Patescibacteria Saccharimonadaceae Candidatus Saccharimonas'
+ 'Planctomycetes Schlesneriaceae Planctopirus'
+ 'Spirochaetes Brachyspiraceae Brachyspira'
+ 'Spirochaetes Spirochaetaceae Sphaerochaeta'
+ 'Spirochaetes Spirochaetaceae Treponema 2'
+ 'Synergistetes Synergistaceae Cloacibacillus'
+ 'Synergistetes Synergistaceae Fretibacterium'
+ 'Synergistetes Synergistaceae Pyramidobacter'
+ 'Synergistetes Synergistaceae Synergistes'
+ 'Tenericutes Anaeroplasmataceae Anaeroplasma'
+ 'Tenericutes Mycoplasmataceae Mycoplasma']
+================================================================================
+
+
+LINE NUMBER 5
+['Proteobacteria Aeromonadaceae Aeromonas'
+ 'Proteobacteria Aquaspirillaceae Microvirgula'
+ 'Proteobacteria Beijerinckiaceae Bosea'
+ 'Proteobacteria Beijerinckiaceae Methylobacterium'
+ 'Proteobacteria Beijerinckiaceae Microvirga'
+ 'Proteobacteria Burkholderiaceae Burkholderia-Caballeronia-Paraburkholderia'
+ 'Proteobacteria Burkholderiaceae Delftia'
+ 'Proteobacteria Burkholderiaceae Lautropia'
+ 'Proteobacteria Burkholderiaceae Massilia'
+ 'Proteobacteria Burkholderiaceae Parasutterella'
+ 'Proteobacteria Burkholderiaceae Ralstonia'
+ 'Proteobacteria Burkholderiaceae Schlegelella'
+ 'Proteobacteria Burkholderiaceae Sutterella'
+ 'Proteobacteria Burkholderiaceae Variovorax'
+ 'Proteobacteria Caulobacteraceae Brevundimonas'
+ 'Proteobacteria Desulfobulbaceae Desulfobulbus'
+ 'Proteobacteria Desulfovibrionaceae Bilophila'
+ 'Proteobacteria Desulfovibrionaceae Desulfovibrio'
+ 'Proteobacteria Desulfovibrionaceae Mailhella'
+ 'Proteobacteria Enterobacteriaceae Citrobacter'
+ 'Proteobacteria Enterobacteriaceae Enterobacter'
+ 'Proteobacteria Enterobacteriaceae Escherichia-Shigella'
+ 'Proteobacteria Enterobacteriaceae Klebsiella'
+ 'Proteobacteria Enterobacteriaceae Kluyvera'
+ 'Proteobacteria Enterobacteriaceae Morganella'
+ 'Proteobacteria Enterobacteriaceae Proteus'
+ 'Proteobacteria Enterobacteriaceae Providencia'
+ 'Proteobacteria Enterobacteriaceae Salmonella'
+ 'Proteobacteria Enterobacteriaceae Serratia'
+ 'Proteobacteria Geminicoccaceae Geminicoccus'
+ 'Proteobacteria Legionellaceae Legionella'
+ 'Proteobacteria Moraxellaceae Acinetobacter'
+ 'Proteobacteria Neisseriaceae Eikenella'
+ 'Proteobacteria Neisseriaceae Neisseria'
+ 'Proteobacteria Pasteurellaceae Actinobacillus'
+ 'Proteobacteria Pasteurellaceae Aggregatibacter'
+ 'Proteobacteria Pasteurellaceae Haemophilus'
+ 'Proteobacteria Pasteurellaceae Rodentibacter'
+ 'Proteobacteria Pseudomonadaceae Pseudomonas'
+ 'Proteobacteria Rhizobiaceae Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium'
+ 'Proteobacteria Rhizobiaceae Ochrobactrum'
+ 'Proteobacteria Sphingomonadaceae Novosphingobium'
+ 'Proteobacteria Sphingomonadaceae Sphingomonas'
+ 'Proteobacteria Succinivibrionaceae Succinivibrio'
+ 'Proteobacteria Unknown Family Candidatus Berkiella'
+ 'Proteobacteria Vibrionaceae Photobacterium'
+ 'Proteobacteria Xanthobacteraceae Afipia'
+ 'Proteobacteria Xanthobacteraceae Bradyrhizobium'
+ 'Proteobacteria Xanthobacteraceae Rhodopseudomonas'
+ 'Proteobacteria Xanthomonadaceae Stenotrophomonas'
+ 'Proteobacteria Xanthomonadaceae Xanthomonas']
+================================================================================
+
+
+LINE NUMBER 6
+['Actinobacteria Actinomycetaceae Actinomyces']
+================================================================================
+
+
+LINE NUMBER 7
+['Actinobacteria Actinomycetaceae Actinomyces']
+================================================================================
+
+
+LINE NUMBER 8
+['Firmicutes Lachnospiraceae Agathobacter']
+================================================================================
+
+
+LINE NUMBER 9
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 10
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 11
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 12
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 13
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 14
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 15
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 16
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 17
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 18
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 19
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 20
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 21
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 22
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 23
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 24
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 25
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 26
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 27
+['Verrucomicrobia Akkermansiaceae Akkermansia']
+================================================================================
+
+
+LINE NUMBER 28
+['Bacteroidetes Bacteroidaceae Bacteroides'
+ 'Bacteroidetes Bacteroidales Incertae Sedis Phocaeicola'
+ 'Bacteroidetes Barnesiellaceae Barnesiella'
+ 'Bacteroidetes Barnesiellaceae Coprobacter'
+ 'Bacteroidetes Chitinophagaceae Hydrotalea'
+ 'Bacteroidetes Chitinophagaceae Lacibacter'
+ 'Bacteroidetes Dysgonomonadaceae Dysgonomonas'
+ 'Bacteroidetes Flavobacteriaceae Capnocytophaga'
+ 'Bacteroidetes Flavobacteriaceae Flavobacterium'
+ 'Bacteroidetes Marinifilaceae Butyricimonas'
+ 'Bacteroidetes Marinifilaceae Odoribacter'
+ 'Bacteroidetes Muribaculaceae CAG-873'
+ 'Bacteroidetes Muribaculaceae Genus gut metagenome'
+ 'Bacteroidetes Muribaculaceae Genus mouse gut metagenome'
+ 'Bacteroidetes Muribaculaceae Muribaculum'
+ 'Bacteroidetes Muribaculaceae metagenome'
+ 'Bacteroidetes Paludibacteraceae F0058'
+ 'Bacteroidetes Porphyromonadaceae Porphyromonas'
+ 'Bacteroidetes Prevotellaceae Alloprevotella'
+ 'Bacteroidetes Prevotellaceae Paraprevotella'
+ 'Bacteroidetes Prevotellaceae Prevotella'
+ 'Bacteroidetes Prevotellaceae Prevotella 2'
+ 'Bacteroidetes Prevotellaceae Prevotella 6'
+ 'Bacteroidetes Prevotellaceae Prevotella 7'
+ 'Bacteroidetes Prevotellaceae Prevotella 9'
+ 'Bacteroidetes Prevotellaceae Prevotellaceae NK3B31 group'
+ 'Bacteroidetes Prevotellaceae Prevotellaceae UCG-001'
+ 'Bacteroidetes Rikenellaceae Alistipes'
+ 'Bacteroidetes Rikenellaceae Rikenella'
+ 'Bacteroidetes Rikenellaceae Rikenellaceae RC9 gut group'
+ 'Bacteroidetes Spirosomaceae Spirosoma'
+ 'Bacteroidetes Tannerellaceae Parabacteroides'
+ 'Bacteroidetes Tannerellaceae Tannerella'
+ 'Bacteroidetes Weeksellaceae Bergeyella'
+ 'Bacteroidetes Weeksellaceae Chryseobacterium']
+================================================================================
+
+
+LINE NUMBER 29
+['Bacteroidetes Rikenellaceae Alistipes']
+================================================================================
+
+
+LINE NUMBER 30
+['Firmicutes Erysipelotrichaceae Allobaculum'
+ 'Firmicutes Erysipelotrichaceae Asteroleplasma'
+ 'Firmicutes Erysipelotrichaceae Bulleidia'
+ 'Firmicutes Erysipelotrichaceae Candidatus Stoquefichus'
+ 'Firmicutes Erysipelotrichaceae Catenibacterium'
+ 'Firmicutes Erysipelotrichaceae Catenisphaera'
+ 'Firmicutes Erysipelotrichaceae Coprobacillus'
+ 'Firmicutes Erysipelotrichaceae Dielma'
+ 'Firmicutes Erysipelotrichaceae Dubosiella'
+ 'Firmicutes Erysipelotrichaceae Eggerthia'
+ 'Firmicutes Erysipelotrichaceae Erysipelatoclostridium'
+ 'Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-003'
+ 'Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-004'
+ 'Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-006'
+ 'Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-010'
+ 'Firmicutes Erysipelotrichaceae Faecalibaculum'
+ 'Firmicutes Erysipelotrichaceae Faecalicoccus'
+ 'Firmicutes Erysipelotrichaceae Faecalitalea'
+ 'Firmicutes Erysipelotrichaceae Firmicutes bacterium CAG:345'
+ 'Firmicutes Erysipelotrichaceae Holdemanella'
+ 'Firmicutes Erysipelotrichaceae Holdemania'
+ 'Firmicutes Erysipelotrichaceae Ileibacterium'
+ 'Firmicutes Erysipelotrichaceae Kandleria'
+ 'Firmicutes Erysipelotrichaceae Merdibacter'
+ 'Firmicutes Erysipelotrichaceae Solobacterium'
+ 'Firmicutes Erysipelotrichaceae Turicibacter'
+ 'Firmicutes Erysipelotrichaceae [Clostridium] innocuum group']
+================================================================================
+
+
+LINE NUMBER 31
+['Firmicutes Lachnospiraceae Anaerostipes']
+================================================================================
+
+
+LINE NUMBER 32
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 33
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 34
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 35
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 36
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 37
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 38
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 39
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 40
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 41
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 42
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 43
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 44
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 45
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 46
+['Bacteroidetes Bacteroidaceae Bacteroides']
+================================================================================
+
+
+LINE NUMBER 47
+['Actinobacteria Bifidobacteriaceae Bifidobacterium']
+================================================================================
+
+
+LINE NUMBER 48
+['Actinobacteria Bifidobacteriaceae Bifidobacterium']
+================================================================================
+
+
+LINE NUMBER 49
+['Actinobacteria Bifidobacteriaceae Bifidobacterium']
+================================================================================
+
+
+LINE NUMBER 50
+['Actinobacteria Bifidobacteriaceae Bifidobacterium']
+================================================================================
+
+
+LINE NUMBER 51
+['Actinobacteria Bifidobacteriaceae Bifidobacterium']
+================================================================================
+
+
+LINE NUMBER 52
+['Proteobacteria Desulfovibrionaceae Bilophila']
+================================================================================
+
+
+LINE NUMBER 53
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 54
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 55
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 56
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 57
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 58
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 59
+['Firmicutes Lachnospiraceae Blautia']
+================================================================================
+
+
+LINE NUMBER 60
+['Firmicutes Erysipelotrichaceae Candidatus Stoquefichus']
+================================================================================
+
+
+LINE NUMBER 61
+['Firmicutes Erysipelotrichaceae Catenibacterium']
+================================================================================
+
+
+LINE NUMBER 62
+['Firmicutes Clostridiaceae 1 Clostridium sensu stricto 1']
+================================================================================
+
+
+LINE NUMBER 63
+['Firmicutes Erysipelotrichaceae Coprobacillus']
+================================================================================
+
+
+LINE NUMBER 64
+['Actinobacteria Corynebacteriaceae Corynebacterium 1']
+================================================================================
+
+
+LINE NUMBER 65
+['Actinobacteria Eggerthellaceae Eggerthella']
+================================================================================
+
+
+LINE NUMBER 66
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 67
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 68
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 69
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 70
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 71
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 72
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 73
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 74
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 75
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 76
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 77
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 78
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 79
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 80
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 81
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 82
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 83
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 84
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 85
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 86
+['Firmicutes Enterococcaceae Enterococcus']
+================================================================================
+
+
+LINE NUMBER 87
+['Firmicutes Erysipelotrichaceae Erysipelatoclostridium']
+================================================================================
+
+
+LINE NUMBER 88
+['Firmicutes Erysipelotrichaceae Erysipelatoclostridium']
+================================================================================
+
+
+LINE NUMBER 89
+['Firmicutes Erysipelotrichaceae Erysipelatoclostridium']
+================================================================================
+
+
+LINE NUMBER 90
+['Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-003']
+================================================================================
+
+
+LINE NUMBER 91
+['Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-003']
+================================================================================
+
+
+LINE NUMBER 92
+['Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-003']
+================================================================================
+
+
+LINE NUMBER 93
+['Proteobacteria Enterobacteriaceae Escherichia-Shigella']
+================================================================================
+
+
+LINE NUMBER 94
+['Proteobacteria Enterobacteriaceae Escherichia-Shigella']
+================================================================================
+
+
+LINE NUMBER 95
+['Firmicutes Erysipelotrichaceae Faecalitalea']
+================================================================================
+
+
+LINE NUMBER 96
+['Firmicutes Erysipelotrichaceae Faecalitalea']
+================================================================================
+
+
+LINE NUMBER 97
+['Firmicutes Erysipelotrichaceae Faecalitalea']
+================================================================================
+
+
+LINE NUMBER 98
+['Firmicutes Erysipelotrichaceae Faecalitalea']
+================================================================================
+
+
+LINE NUMBER 99
+[]
+================================================================================
+
+
+LINE NUMBER 100
+[]
+================================================================================
+
+
+LINE NUMBER 101
+[]
+================================================================================
+
+
+LINE NUMBER 102
+[]
+================================================================================
+
+
+LINE NUMBER 103
+[]
+================================================================================
+
+
+LINE NUMBER 104
+[]
+================================================================================
+
+
+LINE NUMBER 105
+[]
+================================================================================
+
+
+LINE NUMBER 106
+[]
+================================================================================
+
+
+LINE NUMBER 107
+[]
+================================================================================
+
+
+LINE NUMBER 108
+[]
+================================================================================
+
+
+LINE NUMBER 109
+[]
+================================================================================
+
+
+LINE NUMBER 110
+[]
+================================================================================
+
+
+LINE NUMBER 111
+['Firmicutes Lachnospiraceae Fusicatenibacter']
+================================================================================
+
+
+LINE NUMBER 112
+['Firmicutes Family XI Gemella']
+================================================================================
+
+
+LINE NUMBER 113
+['Proteobacteria Pasteurellaceae Haemophilus']
+================================================================================
+
+
+LINE NUMBER 114
+['Firmicutes Erysipelotrichaceae Holdemanella']
+================================================================================
+
+
+LINE NUMBER 115
+['Firmicutes Erysipelotrichaceae Holdemanella']
+================================================================================
+
+
+LINE NUMBER 116
+['Proteobacteria Enterobacteriaceae Klebsiella']
+================================================================================
+
+
+LINE NUMBER 117
+['Firmicutes Lachnospiraceae Lachnoclostridium']
+================================================================================
+
+
+LINE NUMBER 118
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 119
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 120
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 121
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 122
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 123
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 124
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 125
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 126
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 127
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 128
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 129
+['Firmicutes Lactobacillaceae Lactobacillus']
+================================================================================
+
+
+LINE NUMBER 130
+['Firmicutes Streptococcaceae Lactococcus']
+================================================================================
+
+
+LINE NUMBER 131
+['Firmicutes Leuconostocaceae Leuconostoc']
+================================================================================
+
+
+LINE NUMBER 132
+[]
+================================================================================
+
+
+LINE NUMBER 133
+['Bacteroidetes Tannerellaceae Parabacteroides']
+================================================================================
+
+
+LINE NUMBER 134
+['Bacteroidetes Tannerellaceae Parabacteroides']
+================================================================================
+
+
+LINE NUMBER 135
+['Bacteroidetes Tannerellaceae Parabacteroides']
+================================================================================
+
+
+LINE NUMBER 136
+['Proteobacteria Burkholderiaceae Parasutterella']
+================================================================================
+
+
+LINE NUMBER 137
+['Proteobacteria Burkholderiaceae Parasutterella']
+================================================================================
+
+
+LINE NUMBER 138
+['Proteobacteria Burkholderiaceae Parasutterella']
+================================================================================
+
+
+LINE NUMBER 139
+['Firmicutes Lactobacillaceae Pediococcus']
+================================================================================
+
+
+LINE NUMBER 140
+['Firmicutes Lactobacillaceae Pediococcus']
+================================================================================
+
+
+LINE NUMBER 141
+['Firmicutes Acidaminococcaceae Phascolarctobacterium']
+================================================================================
+
+
+LINE NUMBER 142
+['Bacteroidetes Prevotellaceae Prevotella 7']
+================================================================================
+
+
+LINE NUMBER 143
+['Proteobacteria Pseudomonadaceae Pseudomonas']
+================================================================================
+
+
+LINE NUMBER 144
+['Actinobacteria Micrococcaceae Rothia']
+================================================================================
+
+
+LINE NUMBER 145
+['Firmicutes Ruminococcaceae Ruminococcus 2']
+================================================================================
+
+
+LINE NUMBER 146
+['Actinobacteria Bifidobacteriaceae Scardovia']
+================================================================================
+
+
+LINE NUMBER 147
+['Firmicutes Lachnospiraceae Sellimonas']
+================================================================================
+
+
+LINE NUMBER 148
+['Proteobacteria Enterobacteriaceae Serratia']
+================================================================================
+
+
+LINE NUMBER 149
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 150
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 151
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 152
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 153
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 154
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 155
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 156
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 157
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 158
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 159
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 160
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 161
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 162
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 163
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 164
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 165
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 166
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 167
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 168
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 169
+['Firmicutes Staphylococcaceae Staphylococcus']
+================================================================================
+
+
+LINE NUMBER 170
+['Proteobacteria Xanthomonadaceae Stenotrophomonas']
+================================================================================
+
+
+LINE NUMBER 171
+['Proteobacteria Xanthomonadaceae Stenotrophomonas']
+================================================================================
+
+
+LINE NUMBER 172
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 173
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 174
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 175
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 176
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 177
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 178
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 179
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 180
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 181
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 182
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 183
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 184
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 185
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 186
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 187
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 188
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 189
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 190
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 191
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 192
+['Firmicutes Streptococcaceae Streptococcus']
+================================================================================
+
+
+LINE NUMBER 193
+['Firmicutes Ruminococcaceae Subdoligranulum']
+================================================================================
+
+
+LINE NUMBER 194
+['Firmicutes Ruminococcaceae UBA1819']
+================================================================================
+
+
+LINE NUMBER 195
+['Firmicutes Veillonellaceae Veillonella']
+================================================================================
+
+
+LINE NUMBER 196
+['Firmicutes Veillonellaceae Veillonella']
+================================================================================
+
+
+LINE NUMBER 197
+['Firmicutes Veillonellaceae Veillonella']
+================================================================================
+
+
+LINE NUMBER 198
+['Firmicutes Leuconostocaceae Weissella']
+================================================================================
+
+
+LINE NUMBER 199
+['Firmicutes Erysipelotrichaceae [Clostridium] innocuum group']
+================================================================================
+
+
+LINE NUMBER 200
+['Firmicutes Erysipelotrichaceae [Clostridium] innocuum group']
+================================================================================
+
+
+LINE NUMBER 201
+['Firmicutes Erysipelotrichaceae [Clostridium] innocuum group']
+================================================================================
+
+
+LINE NUMBER 202
+['Firmicutes Erysipelotrichaceae [Clostridium] innocuum group']
+================================================================================
+
+
+LINE NUMBER 203
+['Firmicutes Lachnospiraceae [Ruminococcus] gnavus group']
+================================================================================
+
+

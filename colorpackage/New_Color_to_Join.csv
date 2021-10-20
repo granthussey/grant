@@ -1,0 +1,436 @@
+,HexColor,ColorOrder,Kingdom,Phylum,Class,Order,Family,Genus,PFG
+0,#0F2F9D,163,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Firmicutes Lactobacillaceae Lactobacillus
+1,#918075,7,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Firmicutes Lachnospiraceae Blautia
+2,#16DDD3,44,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroidetes Bacteroidaceae Bacteroides
+3,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,Firmicutes Peptostreptococcaceae Romboutsia
+7,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerostipes,Firmicutes Lachnospiraceae Anaerostipes
+9,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Agathobacter,Firmicutes Lachnospiraceae Agathobacter
+10,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae NK4A214 group,Firmicutes Ruminococcaceae Ruminococcaceae NK4A214 group
+12,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-003,Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-003
+13,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas 3,Firmicutes Veillonellaceae Selenomonas 3
+14,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus 3,Firmicutes Lachnospiraceae Coprococcus 3
+15,#D0D0D0,189,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Fusobacteria Leptotrichiaceae Leptotrichia
+17,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,Firmicutes Ruminococcaceae Faecalibacterium
+18,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,[Clostridium] innocuum group,Firmicutes Erysipelotrichaceae [Clostridium] innocuum group
+19,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Firmicutes Bacillaceae Bacillus
+20,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-005,Firmicutes Ruminococcaceae Ruminococcaceae UCG-005
+21,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Firmicutes Lactobacillaceae Lactobacillus
+22,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,[Eubacterium] coprostanoligenes group,Firmicutes Ruminococcaceae [Eubacterium] coprostanoligenes group
+23,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Subdoligranulum,Firmicutes Ruminococcaceae Subdoligranulum
+24,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Christensenellaceae R-7 group,Firmicutes Christensenellaceae Christensenellaceae R-7 group
+25,#B8D93F,126,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Firmicutes Streptococcaceae Streptococcus
+26,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,Firmicutes Erysipelotrichaceae Erysipelatoclostridium
+28,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus 2,Firmicutes Lachnospiraceae Coprococcus 2
+29,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Firmicutes Lachnospiraceae Roseburia
+31,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella 7,Bacteroidetes Prevotellaceae Prevotella 7
+33,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium 9,Firmicutes Ruminococcaceae Ruminiclostridium 9
+34,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Firmicutes Lachnospiraceae Dorea
+36,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcus,Firmicutes Peptostreptococcaceae Peptostreptococcus
+38,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroidetes Bacteroidaceae Bacteroides
+39,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Slackia,Actinobacteria Eggerthellaceae Slackia
+41,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Tyzzerella 4,Firmicutes Lachnospiraceae Tyzzerella 4
+43,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Neisseriaceae,Neisseria,Proteobacteria Neisseriaceae Neisseria
+44,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 1,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 1
+45,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinobacteria Actinomycetaceae Actinomyces
+47,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonella,Firmicutes Veillonellaceae Veillonella
+48,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Proteobacteria Pasteurellaceae Haemophilus
+49,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Bacteroidetes Porphyromonadaceae Porphyromonas
+50,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,Bacteroidetes Prevotellaceae Alloprevotella
+58,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Actinobacteria Bifidobacteriaceae Bifidobacterium
+59,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 15,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 15
+61,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] hallii group,Firmicutes Lachnospiraceae [Eubacterium] hallii group
+65,#D0D0D0,189,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema 2,Spirochaetes Spirochaetaceae Treponema 2
+66,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,GCA-900066575,Firmicutes Lachnospiraceae GCA-900066575
+67,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Bacteroidetes Prevotellaceae Prevotella
+68,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Actinobacteria Corynebacteriaceae Corynebacterium
+71,#D0D0D0,189,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Fretibacterium,Synergistetes Synergistaceae Fretibacterium
+73,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] ventriosum group,Firmicutes Lachnospiraceae [Eubacterium] ventriosum group
+78,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,Actinobacteria Coriobacteriaceae Collinsella
+79,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium,Firmicutes Lachnospiraceae Lachnoclostridium
+81,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus 1,Firmicutes Ruminococcaceae Ruminococcus 1
+83,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Firmicutes Ruminococcaceae Oscillospira
+84,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,Family XIII AD3011 group,Firmicutes Family XIII Family XIII AD3011 group
+89,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Firmicutes Lactobacillaceae Pediococcus
+90,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoanaerobaculum,Firmicutes Lachnospiraceae Lachnoanaerobaculum
+91,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Proteobacteria Pasteurellaceae Aggregatibacter
+92,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Oribacterium,Firmicutes Lachnospiraceae Oribacterium
+98,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Proteobacteria Legionellaceae Legionella
+103,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas 4,Firmicutes Veillonellaceae Selenomonas 4
+104,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia-Shigella,Proteobacteria Enterobacteriaceae Escherichia-Shigella
+108,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Shuttleworthia,Firmicutes Lachnospiraceae Shuttleworthia
+109,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Hungatella,Firmicutes Lachnospiraceae Hungatella
+112,#D0D0D0,189,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Flexilinea,Chloroflexi Anaerolineaceae Flexilinea
+114,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Bacteroidetes Rikenellaceae Alistipes
+115,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Anaerofilum,Firmicutes Ruminococcaceae Anaerofilum
+116,#CA0BE8,42,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Verrucomicrobia Akkermansiaceae Akkermansia
+118,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,F0058,Bacteroidetes Paludibacteraceae F0058
+120,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobium,Actinobacteria Atopobiaceae Atopobium
+123,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-014,Firmicutes Ruminococcaceae Ruminococcaceae UCG-014
+125,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Peptoniphilus,Firmicutes Family XI Peptoniphilus
+128,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,Actinobacteria Microbacteriaceae Microbacterium
+129,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Friedmanniella,Actinobacteria Propionibacteriaceae Friedmanniella
+131,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,Firmicutes Erysipelotrichaceae Holdemanella
+134,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Abiotrophia,Firmicutes Aerococcaceae Abiotrophia
+135,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Candidatus Stoquefichus,Firmicutes Erysipelotrichaceae Candidatus Stoquefichus
+138,#FBF528,147,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Firmicutes Staphylococcaceae Staphylococcus
+139,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Ruminococcus] torques group,Firmicutes Lachnospiraceae [Ruminococcus] torques group
+140,#D0D0D0,189,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacteria Fusobacteriaceae Fusobacterium
+149,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Ruminococcus] gnavus group,Firmicutes Lachnospiraceae [Ruminococcus] gnavus group
+152,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Bacteroidetes Tannerellaceae Parabacteroides
+158,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Marvinbryantia,Firmicutes Lachnospiraceae Marvinbryantia
+160,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,Bacteroidetes Barnesiellaceae Coprobacter
+161,#066D28,105,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Firmicutes Enterococcaceae Enterococcus
+163,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus 2,Firmicutes Ruminococcaceae Ruminococcus 2
+164,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,[Eubacterium] brachy group,Firmicutes Family XIII [Eubacterium] brachy group
+166,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium 1,Actinobacteria Corynebacteriaceae Corynebacterium 1
+171,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Epulopiscium,Firmicutes Lachnospiraceae Epulopiscium
+174,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,Bacteroidetes Prevotellaceae Paraprevotella
+176,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,Firmicutes Erysipelotrichaceae Faecalitalea
+177,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,Actinobacteria Brevibacteriaceae Brevibacterium
+179,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,CHKCI001,Firmicutes Lachnospiraceae CHKCI001
+183,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Butyricicoccus,Firmicutes Ruminococcaceae Butyricicoccus
+187,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Methylobacterium,Proteobacteria Beijerinckiaceae Methylobacterium
+198,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Citrobacter,Proteobacteria Enterobacteriaceae Citrobacter
+199,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,Firmicutes Ruminococcaceae Acetanaerobacterium
+201,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Varibaculum,Actinobacteria Actinomycetaceae Varibaculum
+202,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megasphaera,Firmicutes Veillonellaceae Megasphaera
+205,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Anaerococcus,Firmicutes Family XI Anaerococcus
+209,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-013,Firmicutes Ruminococcaceae Ruminococcaceae UCG-013
+210,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-002,Firmicutes Ruminococcaceae Ruminococcaceae UCG-002
+212,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,S5-A14a,Firmicutes Family XIII S5-A14a
+214,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Fournierella,Firmicutes Ruminococcaceae Fournierella
+215,#D0D0D0,189,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Cloacibacillus,Synergistetes Synergistaceae Cloacibacillus
+216,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,Mogibacterium,Firmicutes Family XIII Mogibacterium
+217,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium 5,Firmicutes Ruminococcaceae Ruminiclostridium 5
+220,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] oxidoreducens group,Firmicutes Lachnospiraceae [Eubacterium] oxidoreducens group
+234,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-006,Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-006
+237,#F83333,210,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Proteobacteria Desulfovibrionaceae Desulfovibrio
+242,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Ruminococcus] gauvreauii group,Firmicutes Lachnospiraceae [Ruminococcus] gauvreauii group
+250,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium 5,Firmicutes Lachnospiraceae Lachnoclostridium 5
+257,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,Actinobacteria Micrococcaceae Kocuria
+258,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Sutterella,Proteobacteria Burkholderiaceae Sutterella
+264,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Eisenbergiella,Firmicutes Lachnospiraceae Eisenbergiella
+265,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Dialister,Firmicutes Veillonellaceae Dialister
+267,#35D73C,87,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Firmicutes Enterococcaceae Enterococcus
+269,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Macrococcus,Firmicutes Staphylococcaceae Macrococcus
+273,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae NK4A136 group,Firmicutes Lachnospiraceae Lachnospiraceae NK4A136 group
+276,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Catenibacterium,Firmicutes Erysipelotrichaceae Catenibacterium
+278,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Firmicutes Leuconostocaceae Leuconostoc
+282,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Fructobacillus,Firmicutes Leuconostocaceae Fructobacillus
+292,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella 6,Bacteroidetes Prevotellaceae Prevotella 6
+297,#D0D0D0,189,Bacteria,Tenericutes,Mollicutes,Anaeroplasmatales,Anaeroplasmataceae,Anaeroplasma,Tenericutes Anaeroplasmataceae Anaeroplasma
+301,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Ezakiella,Firmicutes Family XI Ezakiella
+303,#0F2F9D,162,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Firmicutes Leuconostocaceae Leuconostoc
+304,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Gammaproteobacteria Incertae Sedis,Unknown Family,Candidatus Berkiella,Proteobacteria Unknown Family Candidatus Berkiella
+309,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Anaeroglobus,Firmicutes Veillonellaceae Anaeroglobus
+316,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,Firmicutes Eubacteriaceae Eubacterium
+318,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Terrisporobacter,Firmicutes Peptostreptococcaceae Terrisporobacter
+320,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Fusicatenibacter,Firmicutes Lachnospiraceae Fusicatenibacter
+323,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillibacter,Firmicutes Ruminococcaceae Oscillibacter
+324,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Intestinibacter,Firmicutes Peptostreptococcaceae Intestinibacter
+325,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] eligens group,Firmicutes Lachnospiraceae [Eubacterium] eligens group
+327,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Flavonifractor,Firmicutes Ruminococcaceae Flavonifractor
+328,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] xylanophilum group,Firmicutes Lachnospiraceae [Eubacterium] xylanophilum group
+330,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthella,Actinobacteria Eggerthellaceae Eggerthella
+331,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Merdibacter,Firmicutes Erysipelotrichaceae Merdibacter
+338,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Sellimonas,Firmicutes Lachnospiraceae Sellimonas
+339,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,Bacteroidetes Barnesiellaceae Barnesiella
+343,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospira,Firmicutes Lachnospiraceae Lachnospira
+349,#F83333,210,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Proteobacteria Desulfovibrionaceae Bilophila
+351,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,Bacteroidetes Marinifilaceae Butyricimonas
+353,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Rothia,Actinobacteria Micrococcaceae Rothia
+354,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,Bacteroidetes Marinifilaceae Odoribacter
+355,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Dielma,Firmicutes Erysipelotrichaceae Dielma
+358,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae ND3007 group,Firmicutes Lachnospiraceae Lachnospiraceae ND3007 group
+359,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Firmicutes Streptococcaceae Lactococcus
+368,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Acetitomaculum,Firmicutes Lachnospiraceae Acetitomaculum
+371,#A8A8A8,177,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonella,Firmicutes Veillonellaceae Veillonella
+378,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Proteobacteria Sphingomonadaceae Sphingomonas
+381,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Acidaminococcus,Firmicutes Acidaminococcaceae Acidaminococcus
+382,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerocolumna,Firmicutes Lachnospiraceae Anaerocolumna
+385,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 16,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 16
+387,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-004,Firmicutes Ruminococcaceae Ruminococcaceae UCG-004
+388,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella,Firmicutes Leuconostocaceae Weissella
+389,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Lautropia,Proteobacteria Burkholderiaceae Lautropia
+391,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Negativibacillus,Firmicutes Ruminococcaceae Negativibacillus
+393,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Tyzzerella 3,Firmicutes Lachnospiraceae Tyzzerella 3
+403,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,Firmicutes Erysipelotrichaceae Turicibacter
+404,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,[Eubacterium] nodatum group,Firmicutes Family XIII [Eubacterium] nodatum group
+405,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella 9,Bacteroidetes Prevotellaceae Prevotella 9
+407,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-010,Firmicutes Ruminococcaceae Ruminococcaceae UCG-010
+408,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Succiniclasticum,Firmicutes Acidaminococcaceae Succiniclasticum
+410,#F83333,210,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Mailhella,Proteobacteria Desulfovibrionaceae Mailhella
+411,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Catenisphaera,Firmicutes Erysipelotrichaceae Catenisphaera
+414,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio,Firmicutes Lachnospiraceae Butyrivibrio
+417,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Proteus,Proteobacteria Enterobacteriaceae Proteus
+420,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Intestinimonas,Firmicutes Ruminococcaceae Intestinimonas
+421,#D0D0D0,189,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistes,Synergistetes Synergistaceae Synergistes
+429,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Negativicoccus,Firmicutes Veillonellaceae Negativicoccus
+432,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Parascardovia,Actinobacteria Bifidobacteriaceae Parascardovia
+438,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Parasutterella,Proteobacteria Burkholderiaceae Parasutterella
+446,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Anaerosalibacter,Firmicutes Family XI Anaerosalibacter
+452,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Anaerofustis,Firmicutes Eubacteriaceae Anaerofustis
+457,#F83333,208,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Achromobacter,Proteobacteria Burkholderiaceae Achromobacter
+459,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Dubosiella,Firmicutes Erysipelotrichaceae Dubosiella
+465,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Tyzzerella,Firmicutes Lachnospiraceae Tyzzerella
+469,#8FA831,121,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Firmicutes Streptococcaceae Streptococcus
+471,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Sedimentibacter,Firmicutes Family XI Sedimentibacter
+479,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium,Firmicutes Ruminococcaceae Ruminiclostridium
+481,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Dysgonomonas,Bacteroidetes Dysgonomonadaceae Dysgonomonas
+482,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerosporobacter,Firmicutes Lachnospiraceae Anaerosporobacter
+485,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Candidatus Soleaferrea,Firmicutes Ruminococcaceae Candidatus Soleaferrea
+494,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-004,Firmicutes Lachnospiraceae Lachnospiraceae UCG-004
+495,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Firmicutes Peptostreptococcaceae Clostridioides
+496,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Firmicutes Paenibacillaceae Paenibacillus
+501,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,UBA1819,Firmicutes Ruminococcaceae UBA1819
+503,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Actinobacteria Nocardiaceae Rhodococcus
+515,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Robinsoniella,Firmicutes Lachnospiraceae Robinsoniella
+516,#D0D0D0,189,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Tenericutes Mycoplasmataceae Mycoplasma
+521,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,Firmicutes Acidaminococcaceae Phascolarctobacterium
+523,#D0D0D0,189,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Deinococcus-Thermus Deinococcaceae Deinococcus
+524,#D0D0D0,189,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Trueperaceae,Truepera,Deinococcus-Thermus Trueperaceae Truepera
+526,#D0D0D0,189,Bacteria,Epsilonbacteraeota,Campylobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Epsilonbacteraeota Campylobacteraceae Campylobacter
+528,#D0D0D0,189,Bacteria,Dependentiae,Babeliae,Babeliales,Babeliaceae,Candidatus Babela,Dependentiae Babeliaceae Candidatus Babela
+531,#D0D0D0,189,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Sneathia,Fusobacteria Leptotrichiaceae Sneathia
+533,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Fastidiosipila,Firmicutes Ruminococcaceae Fastidiosipila
+544,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Parvimonas,Firmicutes Family XI Parvimonas
+548,#A8A8A8,173,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinobacteria Actinomycetaceae Actinomyces
+570,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Finegoldia,Firmicutes Family XI Finegoldia
+572,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinotignum,Actinobacteria Actinomycetaceae Actinotignum
+574,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinobaculum,Actinobacteria Actinomycetaceae Actinobaculum
+593,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Pseudopropionibacterium,Actinobacteria Propionibacteriaceae Pseudopropionibacterium
+600,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] fissicatena group,Firmicutes Lachnospiraceae [Eubacterium] fissicatena group
+610,#D8D321,143,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Firmicutes Staphylococcaceae Staphylococcus
+612,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Proteobacteria Xanthomonadaceae Xanthomonas
+613,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 2,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 2
+617,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Defluviitaleaceae,Defluviitaleaceae UCG-011,Firmicutes Defluviitaleaceae Defluviitaleaceae UCG-011
+624,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Bacteroidetes Flavobacteriaceae Flavobacterium
+636,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Herbinix,Firmicutes Lachnospiraceae Herbinix
+639,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Firmicutes bacterium CAG:345,Firmicutes Erysipelotrichaceae Firmicutes bacterium CAG:345
+653,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus 1,Firmicutes Lachnospiraceae Coprococcus 1
+677,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 13,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 13
+682,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium,Proteobacteria Xanthobacteraceae Bradyrhizobium
+685,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Paraclostridium,Firmicutes Peptostreptococcaceae Paraclostridium
+693,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae FCS020 group,Firmicutes Lachnospiraceae Lachnospiraceae FCS020 group
+698,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,Firmicutes Planococcaceae Lysinibacillus
+700,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 6,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 6
+705,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Providencia,Proteobacteria Enterobacteriaceae Providencia
+707,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcus,Firmicutes Peptococcaceae Peptococcus
+715,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales vadinBB60 group,Genus gut metagenome,Firmicutes Clostridiales vadinBB60 group Genus gut metagenome
+718,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Moryella,Firmicutes Lachnospiraceae Moryella
+725,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Firmicutes Aerococcaceae Aerococcus
+732,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Scardovia,Actinobacteria Bifidobacteriaceae Scardovia
+738,#AF0000,205,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Parasutterella,Proteobacteria Burkholderiaceae Parasutterella
+740,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptoclostridium,Firmicutes Peptostreptococcaceae Peptoclostridium
+742,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,Firmicutes Erysipelotrichaceae Coprobacillus
+758,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Weeksellaceae,Bergeyella,Bacteroidetes Weeksellaceae Bergeyella
+764,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Neisseriaceae,Eikenella,Proteobacteria Neisseriaceae Eikenella
+765,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella 2,Bacteroidetes Prevotellaceae Prevotella 2
+768,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Morganella,Proteobacteria Enterobacteriaceae Morganella
+770,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Proteobacteria Xanthomonadaceae Stenotrophomonas
+786,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Anaerotruncus,Firmicutes Ruminococcaceae Anaerotruncus
+797,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Tissierella,Firmicutes Family XI Tissierella
+813,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Solobacterium,Firmicutes Erysipelotrichaceae Solobacterium
+826,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,DTU089,Firmicutes Ruminococcaceae DTU089
+827,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Proteobacteria Pseudomonadaceae Pseudomonas
+845,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Asteroleplasma,Firmicutes Erysipelotrichaceae Asteroleplasma
+861,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,GCA-900066755,Firmicutes Lachnospiraceae GCA-900066755
+866,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Paraeggerthella,Actinobacteria Eggerthellaceae Paraeggerthella
+877,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Proteobacteria Moraxellaceae Acinetobacter
+891,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Johnsonella,Firmicutes Lachnospiraceae Johnsonella
+897,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Howardella,Firmicutes Lachnospiraceae Howardella
+898,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Garciella,Firmicutes Eubacteriaceae Garciella
+899,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Catabacter,Firmicutes Christensenellaceae Catabacter
+902,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-004,Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-004
+930,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 3,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 3
+932,#CFB7A7,12,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Sellimonas,Firmicutes Lachnospiraceae Sellimonas
+933,#6683EB,165,Bacteria,Firmicutes,Bacilli,Bacillales,Family XI,Gemella,Firmicutes Family XI Gemella
+947,#D0D0D0,189,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Pyramidobacter,Synergistetes Synergistaceae Pyramidobacter
+948,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megamonas,Firmicutes Veillonellaceae Megamonas
+958,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Gordonibacter,Actinobacteria Eggerthellaceae Gordonibacter
+962,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Aquaspirillaceae,Microvirgula,Proteobacteria Aquaspirillaceae Microvirgula
+1007,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium 6,Firmicutes Ruminococcaceae Ruminiclostridium 6
+1035,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Afipia,Proteobacteria Xanthobacteraceae Afipia
+1057,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Aeriscardovia,Actinobacteria Bifidobacteriaceae Aeriscardovia
+1075,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,Actinobacteria Atopobiaceae Olsenella
+1078,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Gordonia,Actinobacteria Nocardiaceae Gordonia
+1083,#A8A8A8,184,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthella,Actinobacteria Eggerthellaceae Eggerthella
+1094,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalibaculum,Firmicutes Erysipelotrichaceae Faecalibaculum
+1140,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Variovorax,Proteobacteria Burkholderiaceae Variovorax
+1229,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Senegalimassilia,Actinobacteria Eggerthellaceae Senegalimassilia
+1241,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Cellulosilyticum,Firmicutes Lachnospiraceae Cellulosilyticum
+1246,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Adlercreutzia,Actinobacteria Eggerthellaceae Adlercreutzia
+1264,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,F0332,Actinobacteria Actinomycetaceae F0332
+1326,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-002,Firmicutes Lachnospiraceae Lachnospiraceae UCG-002
+1350,#A8A8A8,170,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Actinobacteria Bifidobacteriaceae Bifidobacterium
+1354,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Cryobacterium,Actinobacteria Microbacteriaceae Cryobacterium
+1360,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Pseudoramibacter,Firmicutes Eubacteriaceae Pseudoramibacter
+1365,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium 1,Firmicutes Ruminococcaceae Ruminiclostridium 1
+1380,#D0D0D0,189,Bacteria,Patescibacteria,Saccharimonadia,Saccharimonadales,Saccharimonadaceae,Candidatus Saccharimonas,Patescibacteria Saccharimonadaceae Candidatus Saccharimonas
+1412,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Actinobacteria Propionibacteriaceae Cutibacterium
+1417,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Rodentibacter,Proteobacteria Pasteurellaceae Rodentibacter
+1426,#D0D0D0,189,Bacteria,Chlamydiae,Chlamydiae,Chlamydiales,Parachlamydiaceae,Neochlamydia,Chlamydiae Parachlamydiaceae Neochlamydia
+1428,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae NK3B31 group,Bacteroidetes Prevotellaceae Prevotellaceae NK3B31 group
+1478,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,Firmicutes Bacillaceae Anoxybacillus
+1493,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,CAG-352,Firmicutes Ruminococcaceae CAG-352
+1525,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Muribaculaceae,metagenome,Bacteroidetes Muribaculaceae metagenome
+1529,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-008,Firmicutes Ruminococcaceae Ruminococcaceae UCG-008
+1543,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Caproiciproducens,Firmicutes Ruminococcaceae Caproiciproducens
+1544,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Coriobacteriaceae UCG-002,Actinobacteria Atopobiaceae Coriobacteriaceae UCG-002
+1550,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Clostridium sp. strain Z6,Firmicutes Ruminococcaceae Clostridium sp. strain Z6
+1622,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Actinobacteria Bifidobacteriaceae Gardnerella
+1640,#AF0000,206,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Proteobacteria Pseudomonadaceae Pseudomonas
+1653,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-003,Firmicutes Lachnospiraceae Lachnospiraceae UCG-003
+1660,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Murdochiella,Firmicutes Family XI Murdochiella
+1683,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae NC2004 group,Firmicutes Lachnospiraceae Lachnospiraceae NC2004 group
+1718,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-001,Firmicutes Lachnospiraceae Lachnospiraceae UCG-001
+1726,#F83333,195,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Serratia,Proteobacteria Enterobacteriaceae Serratia
+1728,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Ralstonia,Proteobacteria Burkholderiaceae Ralstonia
+1755,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Eggerthia,Firmicutes Erysipelotrichaceae Eggerthia
+1766,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Murimonas,Firmicutes Lachnospiraceae Murimonas
+1819,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-010,Firmicutes Erysipelotrichaceae Erysipelotrichaceae UCG-010
+1848,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Holdemania,Firmicutes Erysipelotrichaceae Holdemania
+1853,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Proteobacteria Sphingomonadaceae Novosphingobium
+1856,#D0D0D0,189,Bacteria,Lentisphaerae,Lentisphaeria,Victivallales,Victivallaceae,Victivallis,Lentisphaerae Victivallaceae Victivallis
+1868,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae NK3A20 group,Firmicutes Lachnospiraceae Lachnospiraceae NK3A20 group
+1882,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-003,Firmicutes Ruminococcaceae Ruminococcaceae UCG-003
+1924,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-008,Firmicutes Lachnospiraceae Lachnospiraceae UCG-008
+1955,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,[Eubacterium] saphenum group,Firmicutes Family XIII [Eubacterium] saphenum group
+1958,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae NK4B4 group,Firmicutes Lachnospiraceae Lachnospiraceae NK4B4 group
+1980,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Propionibacterium,Actinobacteria Propionibacteriaceae Propionibacterium
+2035,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Stomatobaculum,Firmicutes Lachnospiraceae Stomatobaculum
+2060,#D0D0D0,189,Bacteria,Planctomycetes,Planctomycetacia,Planctomycetales,Schlesneriaceae,Planctopirus,Planctomycetes Schlesneriaceae Planctopirus
+2063,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Cuneatibacter,Firmicutes Lachnospiraceae Cuneatibacter
+2066,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Actinobacteria Mycobacteriaceae Mycobacterium
+2081,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Libanicoccus,Actinobacteria Atopobiaceae Libanicoccus
+2082,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,Proteobacteria Succinivibrionaceae Succinivibrio
+2089,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,Bacteroidetes Rikenellaceae Rikenellaceae RC9 gut group
+2093,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Muribaculaceae,CAG-873,Bacteroidetes Muribaculaceae CAG-873
+2119,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Enterorhabdus,Actinobacteria Eggerthellaceae Enterorhabdus
+2139,#D0D0D0,189,Bacteria,Spirochaetes,Brachyspirae,Brachyspirales,Brachyspiraceae,Brachyspira,Spirochaetes Brachyspiraceae Brachyspira
+2181,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-007,Firmicutes Lachnospiraceae Lachnospiraceae UCG-007
+2198,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Kluyvera,Proteobacteria Enterobacteriaceae Kluyvera
+2200,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Eubacterium] ruminantium group,Firmicutes Lachnospiraceae [Eubacterium] ruminantium group
+2210,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Hydrogenoanaerobacterium,Firmicutes Ruminococcaceae Hydrogenoanaerobacterium
+2221,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Mitsuokella,Firmicutes Veillonellaceae Mitsuokella
+2242,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,A2,Firmicutes Lachnospiraceae A2
+2243,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Anaerovibrio,Firmicutes Veillonellaceae Anaerovibrio
+2247,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae UCG-006,Firmicutes Lachnospiraceae Lachnospiraceae UCG-006
+2252,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Ileibacterium,Firmicutes Erysipelotrichaceae Ileibacterium
+2271,#D0D0D0,189,Bacteria,Chlamydiae,Chlamydiae,Chlamydiales,Parachlamydiaceae,Candidatus Protochlamydia,Chlamydiae Parachlamydiaceae Candidatus Protochlamydia
+2282,#D0D0D0,189,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,Oligosphaeraceae,Z20,Lentisphaerae Oligosphaeraceae Z20
+2324,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Massilia,Proteobacteria Burkholderiaceae Massilia
+2332,#D0D0D0,189,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Streptobacillus,Fusobacteria Leptotrichiaceae Streptobacillus
+2335,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Allisonella,Firmicutes Veillonellaceae Allisonella
+2341,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lactonifactor,Firmicutes Lachnospiraceae Lactonifactor
+2342,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas,Proteobacteria Xanthobacteraceae Rhodopseudomonas
+2345,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Helcococcus,Firmicutes Family XI Helcococcus
+2356,#CFB7A7,1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Ruminococcus] gnavus group,Firmicutes Lachnospiraceae [Ruminococcus] gnavus group
+2358,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Proteobacteria Caulobacteraceae Brevundimonas
+2378,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Bacteroides] pectinophilus group,Firmicutes Lachnospiraceae [Bacteroides] pectinophilus group
+2379,#911EA3,26,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Verrucomicrobia Akkermansiaceae Akkermansia
+2382,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-001,Bacteroidetes Prevotellaceae Prevotellaceae UCG-001
+2384,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,GCA-900066225,Firmicutes Ruminococcaceae GCA-900066225
+2404,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,ASF356,Firmicutes Lachnospiraceae ASF356
+2415,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Mycetocola,Actinobacteria Microbacteriaceae Mycetocola
+2439,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,CAG-56,Firmicutes Lachnospiraceae CAG-56
+2445,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Parvibacter,Actinobacteria Eggerthellaceae Parvibacter
+2449,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-009,Firmicutes Ruminococcaceae Ruminococcaceae UCG-009
+2464,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,W5053,Firmicutes Family XI W5053
+2466,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,Actinobacteria Micrococcaceae Micrococcus
+2544,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Chitinophagales,Chitinophagaceae,Hydrotalea,Bacteroidetes Chitinophagaceae Hydrotalea
+2546,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Chitinophagales,Chitinophagaceae,Lacibacter,Bacteroidetes Chitinophagaceae Lacibacter
+2547,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Schlegelella,Proteobacteria Burkholderiaceae Schlegelella
+2548,#D0D0D0,189,Bacteria,Acidobacteria,Acidobacteriia,Solibacterales,Solibacteraceae (Subgroup 3),Bryobacter,Acidobacteria Solibacteraceae (Subgroup 3) Bryobacter
+2553,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,Actinobacteria Nocardioidaceae Nocardioides
+2556,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Aeromicrobium,Actinobacteria Nocardioidaceae Aeromicrobium
+2565,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenella,Bacteroidetes Rikenellaceae Rikenella
+2603,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Gallicola,Firmicutes Family XI Gallicola
+2659,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,Proteobacteria Rhizobiaceae Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+2672,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Arcanobacterium,Actinobacteria Actinomycetaceae Arcanobacterium
+2689,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Sarcina,Firmicutes Clostridiaceae 1 Sarcina
+2698,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,CHKCI002,Actinobacteria Eggerthellaceae CHKCI002
+2709,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Curtobacterium,Actinobacteria Microbacteriaceae Curtobacterium
+2715,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Microvirga,Proteobacteria Beijerinckiaceae Microvirga
+2719,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae FE2018 group,Firmicutes Lachnospiraceae Lachnospiraceae FE2018 group
+2758,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Virgibacillus,Firmicutes Bacillaceae Virgibacillus
+2794,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,Proteobacteria Enterobacteriaceae Klebsiella
+2856,#CFB7A7,4,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus 2,Firmicutes Ruminococcaceae Ruminococcus 2
+2876,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,Actinobacteria Bifidobacteriaceae Alloscardovia
+2889,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Trueperella,Actinobacteria Actinomycetaceae Trueperella
+2907,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalicoccus,Firmicutes Erysipelotrichaceae Faecalicoccus
+2934,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Angelakisella,Firmicutes Ruminococcaceae Angelakisella
+3033,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XI,Tissierella sp. AIP 285.00,Firmicutes Family XI Tissierella sp. AIP 285.00
+3055,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Bacteroidetes Flavobacteriaceae Capnocytophaga
+3088,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,UC5-1-2E3,Firmicutes Lachnospiraceae UC5-1-2E3
+3094,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Anthococcus,Firmicutes Streptococcaceae Anthococcus
+3223,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 12,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 12
+3230,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Allobaculum,Firmicutes Erysipelotrichaceae Allobaculum
+3274,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium 10,Firmicutes Lachnospiraceae Lachnoclostridium 10
+3288,#CFB7A7,6,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Firmicutes Lachnospiraceae Blautia
+3409,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Kandleria,Firmicutes Erysipelotrichaceae Kandleria
+3415,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Firmicutes Carnobacteriaceae Granulicatella
+3444,#AF0000,198,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Proteobacteria Desulfovibrionaceae Bilophila
+3498,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Pseudoclavibacter,Actinobacteria Microbacteriaceae Pseudoclavibacter
+3507,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Harryflintia,Firmicutes Ruminococcaceae Harryflintia
+3557,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriales Incertae Sedis,Raoultibacter,Actinobacteria Coriobacteriales Incertae Sedis Raoultibacter
+3594,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,Proteobacteria Enterobacteriaceae Enterobacter
+3607,#0F2F9D,156,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Abiotrophia,Firmicutes Aerococcaceae Abiotrophia
+3763,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Muribaculaceae,Genus gut metagenome,Bacteroidetes Muribaculaceae Genus gut metagenome
+3805,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Bacteroidetes Weeksellaceae Chryseobacterium
+3960,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium sensu stricto 18,Firmicutes Clostridiaceae 1 Clostridium sensu stricto 18
+3977,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Cryptobacterium,Actinobacteria Eggerthellaceae Cryptobacterium
+3978,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Family XIII,Family XIII UCG-001,Firmicutes Family XIII Family XIII UCG-001
+4005,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Geodermatophilaceae,Blastococcus,Actinobacteria Geodermatophilaceae Blastococcus
+4013,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Geodermatophilaceae,Modestobacter,Actinobacteria Geodermatophilaceae Modestobacter
+4025,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Lawsonella,Actinobacteria Corynebacteriaceae Lawsonella
+4028,#D0D0D0,189,Bacteria,Acidobacteria,Blastocatellia (Subgroup 4),Blastocatellales,Blastocatellaceae,Blastocatella,Acidobacteria Blastocatellaceae Blastocatella
+4029,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Tistrellales,Geminicoccaceae,Geminicoccus,Proteobacteria Geminicoccaceae Geminicoccus
+4030,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Cytophagales,Spirosomaceae,Spirosoma,Bacteroidetes Spirosomaceae Spirosoma
+4053,#F79D28,84,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Bulleidia,Firmicutes Erysipelotrichaceae Bulleidia
+4145,#D0D0D0,189,Bacteria,Epsilonbacteraeota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Epsilonbacteraeota Helicobacteraceae Helicobacter
+4163,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Paeniclostridium,Firmicutes Peptostreptococcaceae Paeniclostridium
+4252,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Muribaculaceae,Genus mouse gut metagenome,Bacteroidetes Muribaculaceae Genus mouse gut metagenome
+4349,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales vadinBB60 group,metagenome,Firmicutes Clostridiales vadinBB60 group metagenome
+4380,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Leucobacter,Actinobacteria Microbacteriaceae Leucobacter
+4445,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Enorma,Actinobacteria Coriobacteriaceae Enorma
+4448,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Plantibacter,Actinobacteria Microbacteriaceae Plantibacter
+4574,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Salmonella,Proteobacteria Enterobacteriaceae Salmonella
+4593,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,[Acetivibrio] ethanolgignens group,Firmicutes Lachnospiraceae [Acetivibrio] ethanolgignens group
+4620,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Muribaculaceae,Muribaculum,Bacteroidetes Muribaculaceae Muribaculum
+4651,#D0D0D0,189,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Mucispirillum,Deferribacteres Deferribacteraceae Mucispirillum
+4687,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Proteobacteria Aeromonadaceae Aeromonas
+4738,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Mobiluncus,Actinobacteria Actinomycetaceae Mobiluncus
+4768,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Papillibacter,Firmicutes Ruminococcaceae Papillibacter
+4779,#CFB7A7,18,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,UBA1819,Firmicutes Ruminococcaceae UBA1819
+4797,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales Incertae Sedis,Phocaeicola,Bacteroidetes Bacteroidales Incertae Sedis Phocaeicola
+4810,#D0D0D0,189,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas,Firmicutes Veillonellaceae Selenomonas
+4821,#CFB7A7,10,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerostipes,Firmicutes Lachnospiraceae Anaerostipes
+4829,#1EFEF2,63,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Tannerella,Bacteroidetes Tannerellaceae Tannerella
+4868,#D0D0D0,189,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,Spirochaetes Spirochaetaceae Sphaerochaeta
+4875,#F83333,210,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbus,Proteobacteria Desulfobulbaceae Desulfobulbus
+4965,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderia-Caballeronia-Paraburkholderia,Proteobacteria Burkholderiaceae Burkholderia-Caballeronia-Paraburkholderia
+5075,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Acidipropionibacterium,Actinobacteria Propionibacteriaceae Acidipropionibacterium
+5080,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Dermabacter,Actinobacteria Dermabacteraceae Dermabacter
+5084,#AF0000,194,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,Proteobacteria Enterobacteriaceae Klebsiella
+5098,#16DDD3,58,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Bacteroidetes Tannerellaceae Parabacteroides
+5101,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae UCG-011,Firmicutes Ruminococcaceae Ruminococcaceae UCG-011
+5144,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Delftia,Proteobacteria Burkholderiaceae Delftia
+5162,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Christensenella,Firmicutes Christensenellaceae Christensenella
+5194,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Incertae Sedis,Firmicutes Lachnospiraceae Incertae Sedis
+5224,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,Proteobacteria Beijerinckiaceae Bosea
+5244,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,Firmicutes Alicyclobacillaceae Alicyclobacillus
+5303,#CFB7A7,20,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium,Firmicutes Lachnospiraceae Lachnoclostridium
+5364,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium,Firmicutes Carnobacteriaceae Carnobacterium
+5389,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Proteobacteria Vibrionaceae Photobacterium
+5416,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Filifactor,Firmicutes Peptostreptococcaceae Filifactor
+5417,#F83333,210,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Proteobacteria Pasteurellaceae Actinobacillus
+5438,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Phocea,Firmicutes Ruminococcaceae Phocea
+5452,#918075,21,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Pygmaiobacter,Firmicutes Ruminococcaceae Pygmaiobacter
+5473,#D0D0D0,189,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Deinococcus-Thermus Thermaceae Thermus
+5479,#D0D0D0,189,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,DNF00809,Actinobacteria Eggerthellaceae DNF00809
+5485,#6683EB,168,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Dolosigranulum,Firmicutes Carnobacteriaceae Dolosigranulum
+5498,#F83333,210,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ochrobactrum,Proteobacteria Rhizobiaceae Ochrobactrum
+5525,#D0D0D0,189,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Sanguibacteraceae,Sanguibacter,Actinobacteria Sanguibacteraceae Sanguibacter
+5539,#6683EB,168,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,Firmicutes Bacillaceae Geobacillus
+5578,#AF0000,204,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Proteobacteria Xanthomonadaceae Stenotrophomonas
