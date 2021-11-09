@@ -7,6 +7,8 @@ import seaborn as sns
 from matplotlib.lines import Line2D
 import pickle
 import numpy as np
+import time
+from functools import wraps
 
 
 def fill_tax_table(tax):
@@ -35,8 +37,10 @@ def fill_tax_table(tax):
 
     return tax
 
+
 def new_fill_tax_table(tax):
     return fill_tax_table(tax)
+
 
 # From hctmicrobiome
 
@@ -216,3 +220,71 @@ def load_pickle(fn):
 
 def moving_average(x, w):
     return np.convolve(x, np.ones(w), "valid") / w
+
+
+def set_right_cbar(fig, axes):
+    """Take a fig, axes pair (from grant.grant.easy_subplots() may I suggest)
+    and make the RIGHTMOST column of figures into a cbar axis.
+
+    For best results:
+    * Set gridspec_kw with width_ratios where the last axis is very thin (1:10, perhaps)
+
+    Args:
+        fig (matplotlib figure)
+        axes (ndarray): numpy array of axes
+        ncols and nrows are ints
+    """
+
+    gs = axes[0, 0].get_gridspec()
+
+    # For the ENTIRE last column
+    for ax in axes[0:, -1]:
+        # Remove all of those axes
+        ax.remove()
+
+    # Take up the space you removed with a single large axis
+    cbar_ax = fig.add_subplot(gs[0:, -1])
+
+    return fig, axes, cbar_ax
+
+
+def easy_multi_heatmap(ncols=1, nrows=1, base_figsize=None, width_ratios=None, **kwargs):
+    """returns (fig, axes, cbar_ax)"""
+
+    if width_ratios is None:
+        width_ratios = [1] * (ncols + 1)
+        width_ratios[-1] = 0.1
+
+        update_dict = {"gridspec_kw": {"width_ratios": width_ratios}}
+
+        kwargs.update(update_dict)
+
+    if base_figsize is None:
+        base_figsize = (6, 6)
+
+    ncols = ncols + 1  # to account for new cbar_ax
+
+    fig, axes = easy_subplots(ncols, nrows, base_figsize=base_figsize, **kwargs)
+
+    axes = axes.reshape((nrows, ncols))
+
+    fig, axes, cbar_ax = set_right_cbar(fig, axes)
+
+    if 1 in axes.shape:
+        axes = axes.reshape(-1)
+
+    return fig, axes, cbar_ax
+
+
+def timefn(fn):
+    """wrapper to time the enclosed function"""
+
+    @wraps(fn)
+    def measure_time(*args, **kwargs):
+        t1 = time.time()
+        result = fn(*args, **kwargs)
+        t2 = time.time()
+        print("@timefn: {} took {} seconds".format(fn.__name__, t2 - t1))
+        return result
+
+    return measure_time
