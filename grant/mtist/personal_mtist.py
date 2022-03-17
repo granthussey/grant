@@ -422,10 +422,19 @@ class MultiAssembly:
             grant.savefig(fig, f"max_scores_full")
 
 
-def plot_differences(scores, save=False):
+def plot_differences(scores, save=False, diff_hm_names=None, format_names=None, title=None):
 
-    diff_hm_names = ["ridge_score", "lasso_score", "elasticnet_score"]
-    format_names = ["RidgeRegression", "LassoRegression", "ElasticNetRegression"]
+    if diff_hm_names is None:
+        diff_hm_names = ["ridge_score", "lasso_score", "elasticnet_score"]
+
+    if format_names is None:
+        format_names = ["RidgeRegression", "LassoRegression", "ElasticNetRegression"]
+
+    n_ecosystems = len(scores["ground_truth"].unique())
+    n_timeseries = len(scores["n_timeseries"].unique())
+    n_noise = len(scores["noise"].unique())
+    n_sampling_scheme = len(scores["sampling_scheme"].unique())
+    n_timepoints = len(scores["n_timepoints"].unique())
 
     for name, fm_name in zip(diff_hm_names, format_names):
 
@@ -451,14 +460,14 @@ def plot_differences(scores, save=False):
 
         to_plot = (scores_other - scores_default).applymap(lambda v: round(v, 2))
 
-        fig, ax = plt.subplots(figsize=(24, 12))
+        fig, ax = plt.subplots(figsize=((22 / 7) * n_ecosystems, (12 / 5) * n_timepoints))
 
         sns.heatmap(
             to_plot, center=0, cmap="coolwarm", ax=ax, annot=True, linewidths=1, vmax=0.4, vmin=-0.6
         )
 
-        draw_v_lines = [7 * i for i in range(7)]
-        draw_h_lines = [5 * i for i in range(9)]
+        draw_v_lines = [n_timeseries * i for i in range(n_ecosystems)]
+        draw_h_lines = [n_timepoints * i for i in range(n_noise * n_sampling_scheme)]
 
         [ax.axvline(i, c="tab:purple", linewidth=3) for i in draw_v_lines]
         [ax.axhline(i, c="tab:purple", linewidth=3) for i in draw_h_lines]
@@ -467,10 +476,19 @@ def plot_differences(scores, save=False):
         plt.tight_layout()
 
         if save:
-            grant.savefig(fig, f"combined_difference_heatmap_{fm_name}")
+            if title is not None:
+                grant.savefig(fig, f"combined_difference_heatmap_{fm_name}_{title}")
+            else:
+                grant.savefig(fig, f"combined_difference_heatmap_{fm_name}")
 
 
-def plot_es_scores(scores, save=False):
+def plot_es_scores(scores, save=False, title=None):
+
+    n_ecosystems = len(scores["ground_truth"].unique())
+    n_timeseries = len(scores["n_timeseries"].unique())
+    n_noise = len(scores["noise"].unique())
+    n_sampling_scheme = len(scores["sampling_scheme"].unique())
+    n_timepoints = len(scores["n_timepoints"].unique())
 
     for name, fm_name in zip(GLOBALS.regression_names, GLOBALS.formatted_regression_names):
 
@@ -484,19 +502,14 @@ def plot_es_scores(scores, save=False):
             )
         ).applymap(lambda v: round(v, 2))
 
-        fig, ax = plt.subplots(figsize=(22, 12))
+        fig, ax = plt.subplots(figsize=((22 / 7) * n_ecosystems, (12 / 5) * n_timepoints))
 
         sns.heatmap(
-            score,
-            center=0.5,
-            cmap="coolwarm",
-            ax=ax,
-            annot=True,
-            linewidths=1,
+            score, center=0.5, cmap="coolwarm", ax=ax, annot=True, linewidths=1, vmax=0.9, vmin=0.4
         )
 
-        draw_v_lines = [7 * i for i in range(7)]
-        draw_h_lines = [5 * i for i in range(9)]
+        draw_v_lines = [n_timeseries * i for i in range(n_ecosystems)]
+        draw_h_lines = [n_timepoints * i for i in range(n_noise * n_sampling_scheme)]
 
         [ax.axvline(i, c="tab:purple", linewidth=3) for i in draw_v_lines]
         [ax.axhline(i, c="tab:purple", linewidth=3) for i in draw_h_lines]
@@ -505,11 +518,21 @@ def plot_es_scores(scores, save=False):
         plt.tight_layout()
 
         if save:
-            grant.savefig(fig, f"combined_score_heatmap_{fm_name}")
+            if name is not None:
+                grant.savefig(fig, f"combined_score_heatmap_{fm_name}_{title}")
+            else:
+                grant.savefig(fig, f"combined_score_heatmap_{fm_name}")
 
 
-def plot_winners(scores, save=False):
-    fig, ax = plt.subplots(figsize=(12, 12))
+def plot_winners(scores, save=False, title=None):
+
+    n_ecosystems = len(scores["ground_truth"].unique())
+    n_timeseries = len(scores["n_timeseries"].unique())
+    n_noise = len(scores["noise"].unique())
+    n_sampling_scheme = len(scores["sampling_scheme"].unique())
+    n_timepoints = len(scores["n_timepoints"].unique())
+
+    fig, ax = plt.subplots(figsize=((12 / 7) * n_ecosystems, (12 / 5) * n_timepoints))
 
     sns.heatmap(
         (
@@ -520,7 +543,7 @@ def plot_winners(scores, save=False):
                 columns=["ground_truth", "n_timeseries"],
                 values="winners",
             )
-            .replace(dict(zip(GLOBALS.prefixes, [i for i in range(4)])))
+            .replace(dict(zip(GLOBALS.prefixes, [i for i in range(len(GLOBALS.prefixes) + 1)])))
         ),
         cmap="tab10",
         ax=ax,
@@ -545,8 +568,8 @@ def plot_winners(scores, save=False):
         cbar=False,
     )
 
-    draw_v_lines = [7 * i for i in range(7)]
-    draw_h_lines = [5 * i for i in range(9)]
+    draw_v_lines = [n_timeseries * i for i in range(n_ecosystems)]
+    draw_h_lines = [n_timepoints * i for i in range(n_noise * n_sampling_scheme)]
 
     [ax.axvline(i, c="tab:purple", linewidth=3) for i in draw_v_lines]
     [ax.axhline(i, c="tab:purple", linewidth=3) for i in draw_h_lines]
@@ -556,11 +579,21 @@ def plot_winners(scores, save=False):
     plt.tight_layout()
 
     if save:
-        grant.savefig(fig, f"winners_full")
+        if title is not None:
+            grant.savefig(fig, f"winners_full_{title}")
+        else:
+            grant.savefig(fig, f"winners_full")
 
 
-def plot_stdev(scores, save=False):
-    fig, ax = plt.subplots(figsize=(16, 12))
+def plot_stdev(scores, save=False, title=None):
+
+    n_ecosystems = len(scores["ground_truth"].unique())
+    n_timeseries = len(scores["n_timeseries"].unique())
+    n_noise = len(scores["noise"].unique())
+    n_sampling_scheme = len(scores["sampling_scheme"].unique())
+    n_timepoints = len(scores["n_timepoints"].unique())
+
+    fig, ax = plt.subplots(figsize=((16 / 7) * n_ecosystems, (12 / 5) * n_timepoints))
 
     sns.heatmap(
         (
@@ -603,8 +636,8 @@ def plot_stdev(scores, save=False):
         #     cbar=False,
     )
 
-    draw_v_lines = [7 * i for i in range(7)]
-    draw_h_lines = [5 * i for i in range(9)]
+    draw_v_lines = [n_timeseries * i for i in range(n_ecosystems)]
+    draw_h_lines = [n_timepoints * i for i in range(n_noise * n_sampling_scheme)]
 
     [ax.axvline(i, c="tab:purple", linewidth=3) for i in draw_v_lines]
     [ax.axhline(i, c="tab:purple", linewidth=3) for i in draw_h_lines]
@@ -615,12 +648,21 @@ def plot_stdev(scores, save=False):
     plt.tight_layout()
 
     if save:
-        grant.savefig(fig, f"stdev_full")
+        if title is not None:
+            grant.savefig(fig, f"stdev_full_{title}")
+        else:
+            grant.savefig(fig, f"stdev_full")
 
 
-def plot_max_scores(scores, save=False):
+def plot_max_scores(scores, save=False, title=None):
 
-    fig, ax = plt.subplots(figsize=(22, 12))
+    n_ecosystems = len(scores["ground_truth"].unique())
+    n_timeseries = len(scores["n_timeseries"].unique())
+    n_noise = len(scores["noise"].unique())
+    n_sampling_scheme = len(scores["sampling_scheme"].unique())
+    n_timepoints = len(scores["n_timepoints"].unique())
+
+    fig, ax = plt.subplots(figsize=((22 / 7) * n_ecosystems, (12 / 5) * n_timepoints))
     sns.heatmap(
         scores.sort_values(by=["ground_truth", "n_timeseries"])
         .query("seq_depth == 'high'")
@@ -637,8 +679,8 @@ def plot_max_scores(scores, save=False):
         linewidths=1,
     )
 
-    draw_v_lines = [7 * i for i in range(7)]
-    draw_h_lines = [5 * i for i in range(9)]
+    draw_v_lines = [n_timeseries * i for i in range(n_ecosystems)]
+    draw_h_lines = [n_timepoints * i for i in range(n_noise * n_sampling_scheme)]
 
     [ax.axvline(i, c="tab:purple", linewidth=3) for i in draw_v_lines]
     [ax.axhline(i, c="tab:purple", linewidth=3) for i in draw_h_lines]
@@ -647,4 +689,7 @@ def plot_max_scores(scores, save=False):
     plt.tight_layout()
 
     if save:
-        grant.savefig(fig, f"max_scores_full")
+        if title is not None:
+            grant.savefig(fig, f"max_scores_full_{title}")
+        else:
+            grant.savefig(fig, f"max_scores_full")

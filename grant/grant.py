@@ -11,7 +11,7 @@ import time
 from functools import wraps
 
 
-def fill_tax_table(tax):
+def old_fill_tax_table(tax):
     """
     Helper function that fills nan's in a taxonomy table. Such gaps are filled 'from the left' with the next higher non-nan taxonomy level and the lowest level (e.g. OTU# or ASV#) appended.
     """
@@ -38,11 +38,79 @@ def fill_tax_table(tax):
     return tax
 
 
-def new_fill_tax_table(tax):
+def old_new_fill_tax_table(tax):
     return fill_tax_table(tax)
 
+def fill_tax_table(tax):
+    """Fills missing values in the taxonomy table. Will recognize only 'np.nan' data types as empty values.
 
-# From hctmicrobiome
+    Args:
+        tax (pd.DataFrame): Dataframe with index of ASV/OTU and columns of left -> right increasing specificity in taxonomy (e.g., Kingdom -> Species)
+
+    Output:
+        new_tax (pd.DataFrame): Properly-filled taxonomy dataframe
+    """
+    if len(tax.index) != len(tax.index.unique()):
+        print('Repeated OTUs/ASVs in the taxonomy index. Check to make sure there is only _one_ entry per OTU in taxonomy table.')
+
+    # MUST be in increasing specificity order (Kingdom -> Species)
+    # OTU/ASV must be the INDEX.
+    tax_labels = tax.columns
+    table_name = tax.index.name # Important - don't remove this and its corresponding stpe below.
+
+    # Gather all OTUs to iterate over
+    otus = tax.index.unique()
+
+    new_tax = [] # Collector for new taxonomy pd.Series
+    for otu in otus:
+
+        series = tax.loc[otu]
+
+        # If there are no NaNs in the OTU, don't do anything.
+        if (~series.isna()).all():
+            new_tax.append(series)
+
+        # However, if NaNs do exist, fill the taxonomy "from-the-left"
+        else:
+            first_nan = np.argwhere(series.isna().values == True)[0][0]
+
+            # In case "Kingdom" is NaN (or other highest level taxa)
+            if first_nan == 0:
+                last_not_nan = first_nan
+            else:
+                last_not_nan = first_nan - 1
+
+
+            ##### Below commented-out code I'm saving here, ignore #####
+            # for i in range(first_nan, len(series)):
+            #     series.iloc[i] = f'unk_{series.index[i]}_of_{series.index[i-1]}_{series.iloc[i-1]}'
+            #####                                                  #####
+
+            # Perform "fill-from-the-left"
+            # For each and every NaN, fill it with the last non-NaN taxonomy, and append the ASV/OTU name at the end as well.
+            for i in range(first_nan, len(series)):
+
+                # In case "Kingdom" is NaN (or other highest level taxa)
+                if i == 0:
+                    series.iloc[i] = f'unk_{series.index[i]}'
+                else:
+                    series.iloc[i] = f'unk_{series.index[i]}_of_{series.index[last_not_nan]}_{series.iloc[last_not_nan]}'
+
+            # Add in the ASV/OTU name to the end of every unknown
+
+            for i in range(first_nan, len(series)):
+                series.iloc[i] = f'{series.iloc[i]}__{otu}'
+
+
+            new_tax.append(series)
+
+    new_tax = pd.concat(new_tax, axis=1).T
+
+    # This name gets erased in the above transformation, so return it.
+    new_tax.index.name = table_name
+
+    return new_tax
+            
 
 
 def calculate_relative_counts(counts, label="OTU"):
@@ -288,3 +356,45 @@ def timefn(fn):
         return result
 
     return measure_time
+
+def _save(fxn, outdir, filename, **kwargs):
+    # TODO: I do not see the need for this failure catching routine. It makes the code less easy to follow. Consider removing
+    """Routine to create directories that do not exist 
+
+    Args:
+        fxn (function handle): f(Path-like object or str)
+        outdir ([type]): [description]
+        filename ([type]): [description]
+
+    Raises:
+        TypeError: [description]
+    """
+
+    if not callable(fxn):
+        raise TypeError("'fxn' passed is not callable")
+
+    if outdir is not None:
+        try:
+            outdir = Path(outdir).resolve(strict=True)
+        except (FileNotFoundError, TypeError) as e:
+            logger_taxumap.warning(
+                '\nNo valid outdir was declared.\nSaving data into "./results" folder.\n'
+            )
+
+    elif outdir is None:
+        outdir = Path("./results").resolve()
+        try:
+            os.mkdir(outdir)
+            logger_taxumap.info("Making ./results folder...")
+        except FileExistsError:
+            logger_taxumap.info("./results folder already exists")
+        except Exception as e:
+            throw_unknown_save_error(e)
+            sys.exit(2)
+
+    try:
+        fxn(os.path.join(outdir, filename), **kwargs)
+    except Exception as e:
+        throw_unknown_save_error(e)
+    else:
+        logger_taxumap.info("Save successful")
