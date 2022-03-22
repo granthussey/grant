@@ -114,11 +114,21 @@ def extract_mdsine2_dataframes(df):
 #     """
 
 
-def infer_mdsine2(data_dir, output_dir, viz=False, n_samples=None):
+def infer_mdsine2(data_dir, output_dir, viz=False, n_samples=None, n_species=None, clustering=None):
     """data_dir is path to the data to use to infer, output_dir is the location to put output pickles"""
 
     if n_samples is None:
         n_samples = 200
+
+    # if n_species is None:
+    #     n_species = "10"
+    # elif cluster = 'no-clusters'
+    #     n_species=None
+    # else:
+    #     n_species = str(n_species)
+
+    # if clustering is None:
+    #     clustering = "fixed-clustering"
 
     data_dir = Path(data_dir)
     output_dir = Path(output_dir)
@@ -162,9 +172,9 @@ def infer_mdsine2(data_dir, output_dir, viz=False, n_samples=None):
         checkpoint=50,
     )
 
-    # The default number of modules is 30, which is larger than the number of taxa
-    # that we have in this dataset, which would throw a flag.
     params.INITIALIZATION_KWARGS[STRNAMES.CLUSTERING]["value_option"] = "no-clusters"
+    # params.INITIALIZATION_KWARGS[STRNAMES.CLUSTERING]["value_option"] = "fixed-clustering"
+    # params.INITIALIZATION_KWARGS[STRNAMES.CLUSTERING]["n_clusters"] = 10
 
     # initilize the graph
     print("Configure mdsine2 inference")
