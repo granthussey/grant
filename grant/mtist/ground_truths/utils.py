@@ -209,10 +209,9 @@ def save_new_gt(new_gts, new_gt_folder_name):
 
 
 def calc_p(Aij):
-    """From an Aij matrix, calculates P, Pm, Pc, Pplus, Pneg, Pe ecological interactions
+    """From an Aij matrix, calculates P, Pm, Pe, Pc, Pplus, Pneg ecological interactions
 
     Returns:
-        ns, numpy array, raw numbers of (p, pm, pc, pe, pplus, pminus)
         ps, numpy array, proportions of (p, pm, pc, pe, pplus, pminus)
     """
 
@@ -221,65 +220,42 @@ def calc_p(Aij):
     Aij = Aij.copy()
     n_sp = len(Aij)
 
-    # Don't count self_interaction terms
-    Aij[np.diag_indices_from(Aij)] = np.nan
+    ns = calc_n(Aij)
+    n_zero = ns[0]
 
-    n_zero = 0
-    n_pm = 0
-    n_pc = 0
-    n_pe = 0
-    n_pplus = 0
-    n_pminus = 0
-
-    # Count all interactions
-    for i in range(n_sp):
-        for j in range(n_sp):
-
-            for m in range(n_sp):
-                for n in range(n_sp):
-
-                    # You're at a pair to analyze
-                    if i == n and j == m:
-
-                        if Aij[i, j] > 0 and Aij[m, n] > 0:
-                            n_pm = n_pm + 1
-
-                        elif Aij[i, j] < 0 and Aij[m, n] < 0:
-                            n_pc = n_pc + 1
-
-                        elif (Aij[i, j] > 0 and Aij[m, n] < 0) or (Aij[i, j] < 0 and Aij[m, n] > 0):
-                            n_pe = n_pe + 1
-
-                        elif (Aij[i, j] > 0 and Aij[m, n] == 0) or (
-                            Aij[i, j] == 0 and Aij[m, n] > 0
-                        ):
-                            n_pplus = n_pplus + 1
-
-                        elif (Aij[i, j] < 0 and Aij[m, n] == 0) or (
-                            Aij[i, j] == 0 and Aij[m, n] < 0
-                        ):
-                            n_pminus = n_pminus + 1
-
-                        elif Aij[i, j] == 0 and Aij[m, n] == 0:
-                            n_zero = n_zero + 1
-
-    # Don't include the self-interaction terms in this (minus n_sp)
-    # Also don't include the n_zero's (per supplement)
     n_interactions_no_zeros = (np.product(Aij.shape) - n_sp - n_zero) / 2
     n_interactions = np.product(Aij.shape) - n_sp
 
-    # Divide by 2 because things get counted twice in the loop above
-    ns = np.array((n_zero, n_pm, n_pc, n_pe, n_pplus, n_pminus)) / 2
-
     # Divide by n_interactions to calc proportion
-    ps = np.array(ns) / n_interactions_no_zeros
+    ps = ns / n_interactions_no_zeros
     ps[0] = 1 - (n_zero / n_interactions)
 
     return ps
 
 
+def calc_p_adj(Aij):
+    """From an Aij matrix, calculates Pm, Pc, Pe, Pplus, Pneg, 0/0  ecological interactions
+
+    Returns:
+        ps, numpy array, proportions of (pm, pc, pe, pplus, pminus, 0/0)
+    """
+    Aij = Aij.copy()
+    n_sp = len(Aij)
+
+    ns = calc_n(Aij)
+    n_zero = ns[0]
+
+    n_interactions = (np.product(Aij.shape) - n_sp) / 2
+
+    # Divide by n_interactions to calc proportion
+    ps = ns / n_interactions
+    ps[0] = n_zero / n_interactions
+
+    return ps
+
+
 def calc_n(Aij):
-    """From an Aij matrix, calculates P, Pm, Pc, Pplus, Pneg, Pe ecological interactions
+    """From an Aij matrix, calculates P, Pm, Pc, Pe, Pplus, Pneg ecological interactions
 
     Returns:
         ns, numpy array, raw numbers of (p, pm, pc, pe, pplus, pminus)

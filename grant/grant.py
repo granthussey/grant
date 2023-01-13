@@ -41,6 +41,7 @@ def old_fill_tax_table(tax):
 def old_new_fill_tax_table(tax):
     return fill_tax_table(tax)
 
+
 def fill_tax_table(tax):
     """Fills missing values in the taxonomy table. Will recognize only 'np.nan' data types as empty values.
 
@@ -51,17 +52,19 @@ def fill_tax_table(tax):
         new_tax (pd.DataFrame): Properly-filled taxonomy dataframe
     """
     if len(tax.index) != len(tax.index.unique()):
-        print('Repeated OTUs/ASVs in the taxonomy index. Check to make sure there is only _one_ entry per OTU in taxonomy table.')
+        print(
+            "Repeated OTUs/ASVs in the taxonomy index. Check to make sure there is only _one_ entry per OTU in taxonomy table."
+        )
 
     # MUST be in increasing specificity order (Kingdom -> Species)
     # OTU/ASV must be the INDEX.
     tax_labels = tax.columns
-    table_name = tax.index.name # Important - don't remove this and its corresponding stpe below.
+    table_name = tax.index.name  # Important - don't remove this and its corresponding stpe below.
 
     # Gather all OTUs to iterate over
     otus = tax.index.unique()
 
-    new_tax = [] # Collector for new taxonomy pd.Series
+    new_tax = []  # Collector for new taxonomy pd.Series
     for otu in otus:
 
         series = tax.loc[otu]
@@ -80,7 +83,6 @@ def fill_tax_table(tax):
             else:
                 last_not_nan = first_nan - 1
 
-
             ##### Below commented-out code I'm saving here, ignore #####
             # for i in range(first_nan, len(series)):
             #     series.iloc[i] = f'unk_{series.index[i]}_of_{series.index[i-1]}_{series.iloc[i-1]}'
@@ -92,15 +94,16 @@ def fill_tax_table(tax):
 
                 # In case "Kingdom" is NaN (or other highest level taxa)
                 if i == 0:
-                    series.iloc[i] = f'unk_{series.index[i]}'
+                    series.iloc[i] = f"unk_{series.index[i]}"
                 else:
-                    series.iloc[i] = f'unk_{series.index[i]}_of_{series.index[last_not_nan]}_{series.iloc[last_not_nan]}'
+                    series.iloc[
+                        i
+                    ] = f"unk_{series.index[i]}_of_{series.index[last_not_nan]}_{series.iloc[last_not_nan]}"
 
             # Add in the ASV/OTU name to the end of every unknown
 
             for i in range(first_nan, len(series)):
-                series.iloc[i] = f'{series.iloc[i]}__{otu}'
-
+                series.iloc[i] = f"{series.iloc[i]}__{otu}"
 
             new_tax.append(series)
 
@@ -110,7 +113,6 @@ def fill_tax_table(tax):
     new_tax.index.name = table_name
 
     return new_tax
-            
 
 
 def calculate_relative_counts(counts, label="OTU"):
@@ -143,7 +145,7 @@ def custom_legend(
     line_weight=4,
     marker="o",
     linestyle="None",
-    **kwargs
+    **kwargs,
 ):
     """Creates a custom legend on current graphic"""
 
@@ -205,7 +207,7 @@ def easy_subplots(ncols=1, nrows=1, base_figsize=None, **kwargs):
         ncols=ncols,
         nrows=nrows,
         figsize=(base_figsize[0] * ncols, base_figsize[1] * nrows),
-        **kwargs
+        **kwargs,
     )
 
     # Lazy way of doing this
@@ -357,9 +359,10 @@ def timefn(fn):
 
     return measure_time
 
+
 def _save(fxn, outdir, filename, **kwargs):
     # TODO: I do not see the need for this failure catching routine. It makes the code less easy to follow. Consider removing
-    """Routine to create directories that do not exist 
+    """Routine to create directories that do not exist
 
     Args:
         fxn (function handle): f(Path-like object or str)
@@ -398,3 +401,67 @@ def _save(fxn, outdir, filename, **kwargs):
         throw_unknown_save_error(e)
     else:
         logger_taxumap.info("Save successful")
+
+
+def calculate_inverse_simpson(X):
+    ivs = X.apply(lambda r: 1 / np.sum(r**2), axis=1)
+    return ivs
+
+
+def draw_biplot_arrows(pca, pca_embedding, features, ax=None, th=False):
+
+    if ax is None:
+        fig, ax = plt.subplots()
+
+    xvector = pca.components_[0]
+    yvector = pca.components_[1]
+
+    xs = pca_embedding[:, 0]
+    ys = pca_embedding[:, 1]
+
+    if th is True:
+        arrow_lengths = np.sqrt(np.square(pca.components_[0, :]), np.square(pca.components_[1, :]))
+
+        idx_to_draw = np.arange(len(arrow_lengths))[
+            arrow_lengths > np.percentile(arrow_lengths, 99)
+        ]
+
+    elif th is False:
+        idx_to_draw = np.arange(len(xvector))
+
+    elif (isinstance(th, int) or isinstance(th, float)) and (th < 100):
+        arrow_lengths = np.sqrt(np.square(pca.components_[0, :]), np.square(pca.components_[1, :]))
+
+        idx_to_draw = np.arange(len(arrow_lengths))[
+            arrow_lengths > np.percentile(arrow_lengths, th)
+        ]
+
+    else:
+        idx_to_draw = np.arange(len(xvector))
+
+    for i in idx_to_draw:
+
+        plt.arrow(
+            0,
+            0,
+            xvector[i] * max(xs),
+            yvector[i] * max(ys),
+            color="r",
+            width=0.0005,
+            head_width=0.005,
+        )
+        plt.text(
+            xvector[i] * max(xs) * 1.2,
+            yvector[i] * max(ys) * 1.2,
+            list(features)[i],
+            color="r",
+        )
+
+    result = {}
+    for i in idx_to_draw:
+        result[features[i]] = {
+            "vector": np.array((xvector[i], yvector[i])),
+            "arrow_length": np.sqrt(xvector[i] ** 2 + yvector[i] ** 2),
+        }
+
+    return result

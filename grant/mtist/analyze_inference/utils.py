@@ -37,7 +37,7 @@ def calc_ptiles(ptile_th, gts=None, name=None):
         )
 
 
-def load_es_scores(meta=None):
+def load_es_scores(meta=None, drop_floored=False):
     """Loads ES scores from file, does a few datapoints per inference type:
     1. stdev of scores of inference methods
     2. max_scores of scores of inference methods
@@ -69,7 +69,8 @@ def load_es_scores(meta=None):
 
         # Executive decision to remove the floored scores as we don't like those
 
-        _tmp = _tmp.drop(columns="floored")
+        if drop_floored:
+            _tmp = _tmp.drop(columns="floored")
         _tmp = _tmp.rename(columns={"raw": name})
 
         scores = _tmp.join(scores)
